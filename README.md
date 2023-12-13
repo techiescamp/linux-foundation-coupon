@@ -1,5 +1,7 @@
 # Linux Foundation Coupons (December 2023)
 
+As part of supporting the DevOps community, we keep all the Linux Foundation coupons updated in this page.
+
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
 ## [35% OFF] Holiday Discount Sale
