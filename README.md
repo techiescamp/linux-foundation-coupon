@@ -4,16 +4,18 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [35% OFF] Holiday Discount Sale
 
-As part of the Holiday discount sale, get flat 35% discount on all the Linux Foudnation certifications, training programs skillcreds and IT professional programs.
+## 20% OFF Linux Foundation Site-Wide Discount
 
-Use code **HOLIDAY23COM** at [kube.promo/devops](https://kube.promo/devops)
+Get 20% discount on all the Linux Foundation certifications, trainings, Skillcreds and IT Professional programs
 
+**Coupon Code:** DCUBE20 and SCRIPT20
+
+**Redeem here:** [kube.promo/devops](https://kube.promo/devops)
 
 ## Linux Foundation Bundle Discounts
 
-For maximu savings, you can choose bundles to get additional savings.
+For maximum savings, you can choose bundles to get additional savings.
 
 Following are the popular bundles. Use code **HOLIDAY23** with the bundles to get additional discount.
 
@@ -22,5 +24,11 @@ Following are the popular bundles. Use code **HOLIDAY23** with the bundles to ge
 
 
 > You can also check the [Linux Foundation Coupon](https://comtechies.com/linux-foundation-coupon.html) blog for exclusive coupons
+
+## [35% OFF] Holiday Discount Sale [Expired]
+
+As part of the Holiday discount sale, get flat 35% discount on all the Linux Foudnation certifications, training programs skillcreds and IT professional programs.
+
+Use code **HOLIDAY23COM** at [kube.promo/devops](https://kube.promo/devops)
 
    
