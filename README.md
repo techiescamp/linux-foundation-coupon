@@ -25,12 +25,6 @@ Following are the popular bundles. Use code **HOLIDAY23** with the bundles to ge
 
 > You can also check the [Linux Foundation Coupon](https://comtechies.com/linux-foundation-coupon.html) blog for exclusive coupons
 
-## [35% OFF] Holiday Discount Sale [Expired]
-
-As part of the Holiday discount sale, get flat 35% discount on all the Linux Foudnation certifications, training programs skillcreds and IT professional programs.
-
-Use code **HOLIDAY23COM** at [kube.promo/devops](https://kube.promo/devops)
-
 ## Recomended Linux Foundation Cerifications
 
 The Linux Foundation offers several certifications that are highly relevant for DevOps engineers, developers, cloud engineers, and security teams. 
@@ -44,5 +38,10 @@ Here's a table with some specific Linux Foundation certifications.
 | Cloud Engineers    | - CKA (Certified Kubernetes Administrator) <br> - CKAD (Certified Kubernetes Application Developer) <br> - CKS (Certified Kubernetes Security Specialist) <br> - LFCS (Linux Foundation Certified System Administrator) |
 | Security Teams     | - LFCS (Linux Foundation Certified System Administrator) <br> - CKS (Certified Kubernetes Security Specialist) <br> - Secure Software Development Fundamentals |
 
+## [35% OFF] Holiday Discount Sale [Expired]
+
+As part of the Holiday discount sale, get flat 35% discount on all the Linux Foudnation certifications, training programs skillcreds and IT professional programs.
+
+Use code **HOLIDAY23COM** at [kube.promo/devops](https://kube.promo/devops)
 
    
