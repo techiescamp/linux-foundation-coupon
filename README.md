@@ -17,13 +17,19 @@ Get 20% discount on all the Linux Foundation certifications, trainings, Skillcre
 
 For maximum savings, you can choose bundles to get additional savings.
 
-Following are the popular bundles. Use code **HOLIDAY23** with the bundles to get additional discount.
+Following are the popular bundles. Use code **SCRIPT20** with the bundles to get additional discount.
 
 1. [CKA + CKAD + CKS Bundle](https://kube.promo/k8s-bundle)
 2. [CKA + CKAD](https://kube.promo/bundle)
 
 
 > You can also check the [Linux Foundation Coupon](https://comtechies.com/linux-foundation-coupon.html) blog for exclusive coupons
+
+## 50% OFF CKA Coupon
+
+Linux Foundation has a rewards program where you can get 50% discount on certifications once you spend $500 with the Linux foundation. You can get 50% discount on any certification or training program.
+
+Rewards: [Check your Rewards Here](https://openprofile.dev/myrewards/coupons)
 
 ## Recomended Linux Foundation Cerifications
 
