@@ -1,4 +1,6 @@
-# Linux Foundation Coupons (January 2023)
+# Linux Foundation Coupons (January 2024)
+
+Looking for the latest Linux Foundation coupons codes? We got you covered.
 
 As part of supporting the DevOps community, we keep all the Linux Foundation coupons updated in this page.
 
