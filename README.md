@@ -6,6 +6,23 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
+## 35% OFF Linux Foundation New Year Sale
+
+Get up to 35% on Linux Foundation Certifications like CKA, CKAD etc, skillcreds and courses using this exclusive deal.
+
+**Redeem here:** [Linux Foundation ](https://kube.promo/devops)
+
+Following are the best saving options for DevOps Engineers 🚀
+
+From the offer page, carefully select the bundle offers your need.
+
+- CKA + CKAD + CSK Exam ($383 Savings)
+- CKA + CKS Bundle ($253 Savings)
+- For Individual certifications, use code **NEWYEAR24**
+- Use code **NEWYEAR24PLUS** for bundles
+
+𝗡𝗼𝘁𝗲: This offer ends in just 1 week, so don't delay and miss the window on this very special offer.
+
 
 ## 20% OFF Linux Foundation Site-Wide Discount
 
