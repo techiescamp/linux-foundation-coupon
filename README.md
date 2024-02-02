@@ -1,27 +1,10 @@
-# Linux Foundation Coupons (January 2024)
+# Linux Foundation Coupons (Updated For February 2024)
 
 Looking for the latest Linux Foundation coupons codes? We got you covered.
 
 As part of supporting the DevOps community, we keep all the Linux Foundation coupons updated in this page.
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
-
-## 35% OFF Two Day Flash Sale
-
-As part of a two day flash sale, The Linux Foundation is offering flat 35% discount on all it certificatins, courses, skillcreds and IT professional programs.
-
-**Redeem here:** [kube.promo/devops](https://kube.promo/devops)
-
-**Coupon Code:** AWARD35 
-
-Following are the best saving options for DevOps Engineers 🚀
-
-From the offer page, carefully select the bundle offers your need.
-
-- CKA + CKAD + CSK Exam ($383 Savings)
-- CKA + CKS Bundle ($253 Savings)
-- For Individual certifications, use code **AWARD35**
-- Use code **AWARD35** for bundles
 
 
 ## 20% OFF Linux Foundation Site-Wide Discount
@@ -31,6 +14,13 @@ Get 20% discount on all the Linux Foundation certifications, trainings, Skillcre
 **Coupon Code:** DCUBE20 and SCRIPT20
 
 **Redeem here:** [kube.promo/devops](https://kube.promo/devops)
+
+Following are the best saving options for DevOps Engineers 🚀
+
+From the offer page, carefully select the bundle offers your need.
+
+- CKA + CKAD + CSK Exam ($383 Savings)
+- CKA + CKS Bundle ($253 Savings)
 
 ## Linux Foundation Bundle Discounts
 
@@ -76,5 +66,14 @@ Get up to 35% on Linux Foundation Certifications like CKA, CKAD etc, skillcreds 
 **Redeem here:** Use code SCRIPT20 at [Linux Foundation Coupon](https://kube.promo/devops)
 
 𝗡𝗼𝘁𝗲: This offer ends in just 1 week, so don't delay and miss the window on this very special offer.
+
+## 35% OFF Two Day Flash Sale [Expired]
+
+As part of a two day flash sale, The Linux Foundation is offering flat 35% discount on all it certificatins, courses, skillcreds and IT professional programs.
+
+**Redeem here:** [kube.promo/devops](https://kube.promo/devops)
+
+**Coupon Code:** AWARD35 
+
 
    
