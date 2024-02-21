@@ -18,7 +18,11 @@ The following are the best bundles to **save Extra 50% Discount** with code **LE
 - CKA + CKS Bundle ($428 Savings) [kube.promo/bundle](https://kube.promo/bundle)
 - KCNA + CKA ( $348 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 
+**Note:** This Offer Valid until Feb 29, 2024  
+
 >Note: You have one year of validity to appear for the certification exam after registration
+
+**Restrictions:** This promotion is available to anyone who purchases the above-mentioned products with an applicable coupon between February 20, 2024, and February 29, 2024, 23:59 UTC. It is not valid for any other combination of courses or certifications. Promotional price limited to individual purchases ONLY. Offer not valid with any other discount combinations. Offer does not include THRIVE-ONE subscriptions or any FinOps courses and certifications.
 
 
 ## 20% OFF Linux Foundation Site-Wide Discount
