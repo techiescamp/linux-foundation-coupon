@@ -14,9 +14,9 @@ As part of ean exclusive Linux Foundation leap in to learnings sale get flat 50%
 
 The following are the best bundles to **save Extra 50% Discount** with code **LEAPMORE24COM**
 
-- CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($355 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- CKA + CKAD + CKS Exam bundle ($636 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle ($428 Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( $348 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 
 >Note: You have one year of validity to appear for the certification exam after registration
 
