@@ -40,6 +40,12 @@ Linux Foundation has a rewards program where you can get 50% discount on certifi
 
 Rewards: [Check your Rewards Here](https://openprofile.dev/myrewards/coupons)
 
+## 80% OFF IT Professional Programs
+
+When you choose IT professional programs from the Linux Foundation, you could get up to 80% off as compared to individual purchases.
+
+IT Professional Programs comes with a combination of indivudual courses ($250 value). Few programs also have certifications associated it with. So you can learn and get a certification for free.
+
 ## Recomended Linux Foundation Cerifications
 
 The Linux Foundation offers several certifications that are highly relevant for DevOps engineers, developers, cloud engineers, and security teams. 
