@@ -95,7 +95,7 @@ The following are the best bundles to **save Extra Discount** with code **LUNAR2
 
 >Note: You have one year of validity to appear for the certification exam after registration
 
-## [50% OFF] Linux Foundation Leap into Learnings Sale
+## [50% OFF] Linux Foundation Leap into Learnings Sale [Expired]
 
 As part of ean exclusive Linux Foundation leap in to learnings sale get flat 50% discount on e-Learning Courses, Certifications, SkillCreds & IT Professional Programs.
 
