@@ -6,18 +6,6 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [30% OFF] Linux Foundation Womens Day Sale (3 Days Only)
-
-Get up to $416 discount on Linux Foundation certifications using the latest womens day sale.
-
-Use coupon code **IWD24** at https://kube.promo/devops
-
-For the maximum savings, make use of the following certification bundles.
-
-- CKA + CKAD + CSK Exam ($416 Savings) [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($283 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $229 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-
 ## 20% OFF Linux Foundation Site-Wide Discount
 
 Get 20% discount on all the Linux Foundation certifications, trainings, Skillcreds and IT Professional programs
@@ -26,13 +14,13 @@ Get 20% discount on all the Linux Foundation certifications, trainings, Skillcre
 
 **Redeem here:** [kube.promo/devops](https://kube.promo/devops)
 
-Following are the best saving options for DevOps Engineers 🚀
+Following are the best saving options for DevOps Engineers. For the maximum savings, make use of the following certification bundles.
 
-From the offer page, carefully select the bundle offers your need.
+Use code **DCUBE20** at certification bundle checkout.
 
-- CKA + CKAD + CSK Exam ($383 Savings) [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($253 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- CKA + CKAD + CSK Exam ($416 Savings) [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle ($283 Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( $229 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 
 ## Linux Foundation Bundle Discounts
 
@@ -119,5 +107,10 @@ As part of ean exclusive Linux Foundation leap in to learnings sale get flat 50%
 
 **Restrictions:** This promotion is available to anyone who purchases the above-mentioned products with an applicable coupon between February 20, 2024, and February 29, 2024, 23:59 UTC. It is not valid for any other combination of courses or certifications. Promotional price limited to individual purchases ONLY. Offer not valid with any other discount combinations. Offer does not include THRIVE-ONE subscriptions or any FinOps courses and certifications.
 
+## [30% OFF] Linux Foundation Womens Day Sale (Expired)
+
+Get up to $416 discount on Linux Foundation certifications using the latest womens day sale.
+
+Use coupon code **IWD24** at https://kube.promo/devops
 
    
