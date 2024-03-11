@@ -22,6 +22,14 @@ Use code **DCUBE20** at certification bundle checkout.
 - CKA + CKS Bundle ($283 Savings) [kube.promo/bundle](https://kube.promo/bundle)
 - KCNA + CKA ( $229 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 
+## Save 30% on ALL Instructor-led Trainings
+
+Get flat 30% discount on all the Instructor-led Trainings from the Linux Foundation using this exclusive discount.
+
+Use code **ILT4ME** at checkout.
+
+> Note: This offer expired on April 8, 2024
+
 ## Linux Foundation Bundle Discounts
 
 For maximum savings, you can choose bundles to get additional savings.
