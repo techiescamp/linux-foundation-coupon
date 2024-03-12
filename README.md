@@ -6,6 +6,22 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
+## 40% OFF Pot of Career Gold Linux Foundation Sale
+
+Get up to 40% discount on Linux Foundation Certifications, Bundles, professional programs and instructor led programs
+
+For individual certificstions, Save 25% with code **LUCK24COM** at [kube.promo/devops](https://kube.promo/devops)
+
+The following are the best bundles to **save extra 40%** with code **LUCK24CT**
+
+- CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle ($355 Savings): [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( $288 Savings): [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+
+You can also use the same coupon for IT Professional Programs 
+
+For instructor led courses, save 25% with code **LUCK24ILTCOM** 
+
 ## 20% OFF Linux Foundation Site-Wide Discount
 
 Get 20% discount on all the Linux Foundation certifications, trainings, Skillcreds and IT Professional programs
@@ -94,12 +110,6 @@ As part of a two day flash sale, The Linux Foundation is offering flat 35% disco
 As part of Lunar new year get flat 40% discount on e-Learning Courses, Certifications, SkillCreds & IT Professional Programs.
 
 - 🚀  CKA, CKAD, CKS, or KCNA exam aspirants can **save 40%** today using code **LUNAR24COM** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
-
-The following are the best bundles to **save Extra Discount** with code **LUNAR24COM**
-
-- CKA + CKAD + CKS Exam bundle ($506 Savings): 
-- CKA + CKS Bundle ($355 Savings) 
-- KCNA + CKA ( $288 Savings) 
 
 >Note: You have one year of validity to appear for the certification exam after registration
 
