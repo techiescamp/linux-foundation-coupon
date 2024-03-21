@@ -6,26 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## 40% OFF Pot of Career Gold Linux Foundation Sale
-
-Get up to 40% discount on Linux Foundation Certifications, Bundles, professional programs and instructor led programs
-
-For individual certificstions, Save 25% with code **DCUBE20** at [kube.promo/devops](https://kube.promo/devops)
-
-The following are the best bundles to **save extra 25%** with code **COMBUNDLE25**
-
-- CKA + CKS Bundle ($355 Savings): [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $288 Savings): [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-
-Use code SCRIPT20 to save $326 on CKA + CKAD + CKS Bundle
-
-- CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-
-You can also use the same coupon for IT Professional Programs 
-
-For instructor led courses, save 25% with code **LUCK24ILTCOM** 
-
-## 20% OFF Linux Foundation Site-Wide Discount
+## Up to 25% OFF Linux Foundation Site-Wide Discount
 
 Get 20% discount on all the Linux Foundation certifications, trainings, Skillcreds and IT Professional programs
 
@@ -33,13 +14,18 @@ Get 20% discount on all the Linux Foundation certifications, trainings, Skillcre
 
 **Redeem here:** [kube.promo/devops](https://kube.promo/devops)
 
-Following are the best saving options for DevOps Engineers. For the maximum savings, make use of the following certification bundles.
+The following are the best bundles to **save extra 25%** with code **COMBUNDLE25**
 
-Use code **DCUBE20** at certification bundle checkout.
+- CKA + CKS Bundle ($355 Savings): [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( $288 Savings): [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 
-- CKA + CKAD + CSK Exam ($416 Savings) [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($283 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $229 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+Use code **SCRIPT20** to save $326 on CKA + CKAD + CKS Bundle
+
+- CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+
+You can also use the same coupon for IT Professional Programs 
+
+For instructor led courses, save 25% with code **LUCK24ILTCOM** 
 
 ## Save 30% on ALL Instructor-led Trainings
 
@@ -133,5 +119,12 @@ As part of ean exclusive Linux Foundation leap in to learnings sale get flat 50%
 Get up to $416 discount on Linux Foundation certifications using the latest womens day sale.
 
 Use coupon code **IWD24** at https://kube.promo/devops
+
+## 40% OFF Pot of Career Gold Linux Foundation Sale [Expired]
+
+Get up to 40% discount on Linux Foundation Certifications, Bundles, professional programs and instructor led programs
+
+For individual certificstions, Save 25% with code **LUCK24COM** 
+
 
    
