@@ -10,13 +10,16 @@ Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; T
 
 Get up to 40% discount on Linux Foundation Certifications, Bundles, professional programs and instructor led programs
 
-For individual certificstions, Save 25% with code **LUCK24COM** at [kube.promo/devops](https://kube.promo/devops)
+For individual certificstions, Save 25% with code **DCUBE20** at [kube.promo/devops](https://kube.promo/devops)
 
-The following are the best bundles to **save extra 40%** with code **LUCK24CT**
+The following are the best bundles to **save extra 25%** with code **COMBUNDLE25**
 
-- CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
 - CKA + CKS Bundle ($355 Savings): [kube.promo/bundle](https://kube.promo/bundle)
 - KCNA + CKA ( $288 Savings): [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+
+Use code SCRIPT20 to save $326 on CKA + CKAD + CKS Bundle
+
+- CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
 
 You can also use the same coupon for IT Professional Programs 
 
@@ -50,7 +53,7 @@ Use code **ILT4ME** at checkout.
 
 For maximum savings, you can choose bundles to get additional savings.
 
-Following are the popular bundles. Use code **SCRIPT20** with the bundles to get additional discount.
+Following are the popular bundles. Use code **COMBUNDLE25** with the bundles to get additional discount.
 
 1. [CKA + CKAD + CKS Bundle](https://kube.promo/k8s-bundle)
 2. [CKA + CKAD](https://kube.promo/bundle)
