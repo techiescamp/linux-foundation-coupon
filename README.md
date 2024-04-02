@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For March 2024)
+# Linux Foundation Coupons (Updated For April 2024)
 
 Looking for the latest Linux Foundation coupons codes? We got you covered.
 
@@ -26,6 +26,8 @@ Use code **SCRIPT20** to save $326 on CKA + CKAD + CKS Bundle
 You can also use the same coupon for IT Professional Programs 
 
 For instructor led courses, save 25% with code **LUCK24ILTCOM** 
+
+For Thrive One Subscriptions save 10% NOW with code **THRIVE10** on Premium & Standard Subscriptions! (This offer expired on April 5th)
 
 ## Save 30% on ALL Instructor-led Trainings
 
