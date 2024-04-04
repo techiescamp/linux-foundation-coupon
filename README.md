@@ -44,7 +44,7 @@ For maximum savings, you can choose bundles to get additional savings.
 Following are the popular bundles. Use code **COMBUNDLE25** with the bundles to get additional discount.
 
 1. [CKA + CKAD + CKS Bundle](https://kube.promo/k8s-bundle)
-2. [CKA + CKAD](https://kube.promo/bundle)
+2. [CKA + CKS](https://kube.promo/bundle)
 
 
 > You can also check the [Linux Foundation Coupon](https://comtechies.com/linux-foundation-coupon.html) blog for exclusive coupons
