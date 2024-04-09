@@ -6,6 +6,22 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
+## 30% OFF Earthday Site-wide Linux Foundation Sale
+
+Get flat 30% discount on the Linux Foundation using the Earthday exclusive sale. You can use this offer for Certifications, courses, skillcreds and instructor led courses.
+
+Use code **EARTHDAY24** at [kube.promo/devops](https://kube.promo/devops)
+
+Bundles come with **extra discounts** on top of 30% using the same coupon.
+
+- CKA + CKS Bundle ($283 Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle ($419 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + CKA ( $229 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+Use code **EARTHDAY24ILT** for instructor led courses.
+
 ## Up to 25% OFF Linux Foundation Site-Wide Discount
 
 Get 20% discount on all the Linux Foundation certifications, trainings, Skillcreds and IT Professional programs
