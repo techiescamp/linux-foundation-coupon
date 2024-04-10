@@ -10,7 +10,7 @@ Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; T
 
 Get flat 30% discount on the Linux Foundation using the Earthday exclusive sale. You can use this offer for Certifications, courses, skillcreds and instructor led courses.
 
-Use code **EARTHDAY24** at [kube.promo/devops](https://kube.promo/devops)
+Use code **EARTHDAY24COM** at [kube.promo/devops](https://kube.promo/devops)
 
 Bundles come with **extra discounts** on top of 30% using the same coupon.
 
