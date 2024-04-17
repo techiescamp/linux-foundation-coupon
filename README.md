@@ -22,20 +22,14 @@ The following are the best bundles to **save extra 25%** with code **COMBUNDLE25
 Use code **SCRIPT20** to save $326 on CKA + CKAD + CKS Bundle
 
 - CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 You can also use the same coupon for IT Professional Programs 
 
 For instructor led courses, save 25% with code **LUCK24ILTCOM** 
 
 For Thrive One Subscriptions save 10% NOW with code **THRIVE10** on Premium & Standard Subscriptions! (This offer expired on April 5th)
-
-## Save 30% on ALL Instructor-led Trainings
-
-Get flat 30% discount on all the Instructor-led Trainings from the Linux Foundation using this exclusive discount.
-
-Use code **ILT4ME** at checkout.
-
-> Note: This offer expired on April 8, 2024
 
 ## Linux Foundation Bundle Discounts
 
@@ -45,7 +39,6 @@ Following are the popular bundles. Use code **COMBUNDLE25** with the bundles to 
 
 1. [CKA + CKAD + CKS Bundle](https://kube.promo/k8s-bundle)
 2. [CKA + CKS](https://kube.promo/bundle)
-
 
 > You can also check the [Linux Foundation Coupon](https://comtechies.com/linux-foundation-coupon.html) blog for exclusive coupons
 
@@ -138,8 +131,13 @@ Bundles come with **extra discounts** on top of 30% using the same coupon.
 
 - CKA + CKS Bundle ($283 Savings) [kube.promo/bundle](https://kube.promo/bundle)
 - CKA + CKAD + CKS Exam bundle ($419 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + CKA ( $229 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 Use code **EARTHDAY24ILT** for instructor led courses.
+
+## Save 30% on ALL Instructor-led Trainings [Expired]
+
+Get flat 30% discount on all the Instructor-led Trainings from the Linux Foundation using this exclusive discount.
+
+Use code **ILT4ME** at checkout.
+
+> Note: This offer expired on April 8, 2024
