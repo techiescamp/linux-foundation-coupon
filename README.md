@@ -12,8 +12,9 @@ Get flat 40% off on Certifications and bundles using the exclusive Tech Talent s
 
 Use code **TECHTALENT2024CT** at [kube.promo/devops](https://kube.promo/devops)
 
-The following are the best bundles to **save extra $528%** with code **TECHTALENT2024CT**
+The following are the best bundles to **save upto $788%** with code **TECHTALENT2024CT**
 
+- KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
 - CKA + CKS Bundle ($355 Savings): [kube.promo/bundle](https://kube.promo/bundle)
 - KCNA + CKA ( $288 Savings): [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
