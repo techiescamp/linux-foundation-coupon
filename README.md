@@ -6,6 +6,12 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
+## [40% OFF] Linux Foundation Tech Talent Sale
+
+Get flat 40% off on Certifications and bundles using the exclusive Tech Talent sale.
+
+Use code **TECHTALENT2024CT** at [kube.promo/devops](https://kube.promo/devops)
+
 ## Up to 25% OFF Linux Foundation Site-Wide Discount
 
 Get 20% discount on all the Linux Foundation certifications, trainings, Skillcreds and IT Professional programs
