@@ -6,11 +6,19 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [40% OFF] Linux Foundation Tech Talent Sale
+## [40% OFF] Linux Foundation Site Wide Tech Talent Sale
 
 Get flat 40% off on Certifications and bundles using the exclusive Tech Talent sale.
 
 Use code **TECHTALENT2024CT** at [kube.promo/devops](https://kube.promo/devops)
+
+The following are the best bundles to **save extra $528%** with code **TECHTALENT2024CT**
+
+- CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle ($355 Savings): [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( $288 Savings): [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 ## Up to 25% OFF Linux Foundation Site-Wide Discount
 
@@ -19,17 +27,6 @@ Get 20% discount on all the Linux Foundation certifications, trainings, Skillcre
 **Coupon Code:** DCUBE20 and SCRIPT20
 
 **Redeem here:** [kube.promo/devops](https://kube.promo/devops)
-
-The following are the best bundles to **save extra 25%** with code **COMBUNDLE25**
-
-- CKA + CKS Bundle ($355 Savings): [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $288 Savings): [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-
-Use code **SCRIPT20** to save $326 on CKA + CKAD + CKS Bundle
-
-- CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 You can also use the same coupon for IT Professional Programs 
 
