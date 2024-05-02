@@ -19,7 +19,7 @@ The following are the best bundles to **save upto $306** with code **COMBUNDLE25
 - CKA + CKS Bundle ($306 Savings): [kube.promo/bundle](https://kube.promo/bundle)
 - KCNA + CKA ( $210 Savings): [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 
-  Use code **SCRIPT20** to save up to $489 with the following bundles.
+Use code **SCRIPT20** to save up to $489 with the following bundles.
 
 - KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle ($506 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
