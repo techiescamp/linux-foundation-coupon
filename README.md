@@ -12,7 +12,7 @@ Get up to 55% off on Certifications and bundles using the exclusive flash sale.
 
 For individual certifications, 
 
-Use code **MAY24CT** at [kube.promo/devops](https://kube.promo/devops) 
+Use code **MAY24CT** at [kube.promo/devops](https://kube.promo/devops) and save 40%.
 
 To **save up to 55%** on certifications, use code **MAY24PLUSCT** with the following bundles.
 
