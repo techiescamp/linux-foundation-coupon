@@ -10,9 +10,9 @@ Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; T
 
 Get up to 55% off on Certifications and bundles using the exclusive flash sale.
 
-For individual certifications, 
+For individual certifications, use the following exclusive coupon code.
 
-Use code **MAY24CT** at [kube.promo/devops](https://kube.promo/devops) and save 40%.
+Use code **MAY24SPECIALCT** at [kube.promo/devops](https://kube.promo/devops) and save 46%.
 
 To **save up to 55%** on certifications, use code **MAY24PLUSCT** with the following bundles.
 
