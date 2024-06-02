@@ -1,46 +1,10 @@
-# Linux Foundation Coupons (Updated For May 2024)
+# Linux Foundation Coupons (Updated For June 2024)
 
 Looking for the latest Linux Foundation coupons codes? We got you covered.
 
 As part of supporting the DevOps community, we keep all the Linux Foundation coupons updated in this page.
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
-
-## [55% OFF] Linux Foundation Flash Sale
-
-Get up to 55% off on Certifications and bundles using the exclusive flash sale.
-
-For individual certifications, use the following exclusive coupon code.
-
-Use code **MAY24SPECIALCT** at [kube.promo/devops](https://kube.promo/devops) and save 46%.
-
-To **save up to 55%** on certifications, use code **MAY24PLUSCT** with the following bundles.
-
-- KCNA + KCSA + CKA + CKAD + CKS (**$938 Savings**): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle (**$638 Savings**): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle (**$428 Savings**) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA (**$348 Savings**) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle (**$348 Savings**) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle (**$203 Savings**) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> **Savings Tip:** If you havent done any Kubernetes certification yet, the best savings is on the Kubestronaut Bundle with **55.5% savings**
-
-For instructor led trainings, sse Code **MAY24ILTCT** to get 20% flat discount.
-
-## [40% OFF] Linux Foundation Site Wide May Sale 
-
-Get up to 48% off on Certifications and bundles using the exclusive Tech Talent sale.
-
-Use code **30COMTECHIES** at [kube.promo/devops](https://kube.promo/devops) 
-
-To **save up to 40%** on certifications, use code **30COMTECHIES** with the following bundles.
-
-- KCNA + KCSA + CKA + CKAD + CKS (**$788 Savings**): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle (**$528 Savings**): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle (**$355 Savings**) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( **$288 Savings**) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle (**$229 Savings**) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle (**$203 Savings**) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 ## Up to 25% OFF Linux Foundation Site-Wide Discount
 
@@ -63,10 +27,6 @@ Use code **SCRIPT20** to **save up to $489** with the following bundles.
 - KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 You can also use the same coupon for IT Professional Programs 
-
-For instructor led courses, save 25% with code **LUCK24ILTCOM** 
-
-For Thrive One Subscriptions save 10% NOW with code **THRIVE10** on Premium & Standard Subscriptions! (This offer expired on April 5th)
 
 ## Linux Foundation Bundle Discounts
 
@@ -178,4 +138,41 @@ Get flat 30% discount on all the Instructor-led Trainings from the Linux Foundat
 Use code **ILT4ME** at checkout.
 
 > Note: This offer expired on April 8, 2024
+
+## [55% OFF] Linux Foundation Flash Sale [Expired]
+
+Get up to 55% off on Certifications and bundles using the exclusive flash sale.
+
+For individual certifications, use the following exclusive coupon code.
+
+Use code **MAY24SPECIALCT** at [kube.promo/devops](https://kube.promo/devops) and save 46%.
+
+To **save up to 55%** on certifications, use code **MAY24PLUSCT** with the following bundles.
+
+- KCNA + KCSA + CKA + CKAD + CKS (**$938 Savings**): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS Exam bundle (**$638 Savings**): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle (**$428 Savings**) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA (**$348 Savings**) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle (**$348 Savings**) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle (**$203 Savings**) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+> **Savings Tip:** If you havent done any Kubernetes certification yet, the best savings is on the Kubestronaut Bundle with **55.5% savings**
+
+For instructor led trainings, sse Code **MAY24ILTCT** to get 20% flat discount.
+
+## [40% OFF] Linux Foundation Site Wide May Sale [Expired]
+
+Get up to 48% off on Certifications and bundles using the exclusive Tech Talent sale.
+
+Use code **30COMTECHIES** at [kube.promo/devops](https://kube.promo/devops) 
+
+To **save up to 40%** on certifications, use code **30COMTECHIES** with the following bundles.
+
+- KCNA + KCSA + CKA + CKAD + CKS (**$788 Savings**): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS Exam bundle (**$528 Savings**): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle (**$355 Savings**) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( **$288 Savings**) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle (**$229 Savings**) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle (**$203 Savings**) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
 
