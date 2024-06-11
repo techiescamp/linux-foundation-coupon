@@ -23,7 +23,7 @@ The following are the best bundles to **save 50% (up to $788)** with code **JUNE
 - KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
-  Use code **JUNE24ILTCT** to save 20% on instuctor led courses.
+Use code **JUNE24ILTCT** to save 20% on instuctor led courses.
 
 >Note: You have one year of validity to appear for the certification exam after registration
 
