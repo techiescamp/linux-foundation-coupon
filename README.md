@@ -14,7 +14,7 @@ For individual certifiations, SkillCreds and courses,
 
 Use code **PRIME24EBCT** at [kube.promo/devops](https://kube.promo/devops) to get flat 40% discount.
 
-The following are the best bundles to **save 55% (up to $788)** with code **PRIME24EBCT**
+The following are the best bundles to **save upto 55% (up to $803)** with code **PRIME24EBCT**
 
 - KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
