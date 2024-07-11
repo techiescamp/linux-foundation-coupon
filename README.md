@@ -10,7 +10,7 @@ Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; T
 
 Get up to 41% off on Certifications and bundles using the exclusive Tech Talent sale.
 
-For individual certifiations, SkillCreds and courses,
+For individual certifiations (CKA, CKAD , CKS ect), SkillCreds and courses,
 
 Use code **PRIME24EBCT** at [kube.promo/devops](https://kube.promo/devops) to get flat 40% discount.
 
