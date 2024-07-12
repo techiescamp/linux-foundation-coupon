@@ -6,15 +6,15 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [41% OFF] Linux Foundation Prime Day Sale (2 Days Only)
+## [Up to 40% OFF] Linux Foundation Techies Sale
 
-Get up to 41% off on Certifications and bundles using the exclusive Tech Talent sale.
+Get up to 40% off on Certifications and bundles using the exclusive Techies sale.
 
 For individual certifiations (CKA, CKAD , CKS ect), SkillCreds and courses,
 
-Use code **PRIME24EBCT** at [kube.promo/devops](https://kube.promo/devops) to get flat 40% discount.
+Use code **30COMTECHIES** at [kube.promo/devops](https://kube.promo/devops) to get flat 30% discount.
 
-The following are the best bundles to **save upto 55% (up to $803)** with code **PRIME24EBCT**
+The following are the best bundles to **save upto 40% (up to $788)** with code **30COMTECHIES**
 
 - KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
