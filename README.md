@@ -14,9 +14,9 @@ For individual certifiations (CKA, CKAD , CKS ect), SkillCreds and courses,
 
 Use code **K8S10YEARSCT** at [kube.promo/devops](https://kube.promo/devops) to get flat 40% discount.
 
-The following are the best bundles to **save upto 50% (up to $788)** with code **K8S10YEARSCT**
+The following are the best bundles to **save upto 50% (up to $818)** with code **K8S10YEARSCT**
 
-- CKA + CKAD + CKS + KCNA + KCSA (**$938 Savings**): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS + KCNA + KCSA (**$818 Savings**): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle (**$638 Savings**): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
 - CKA + CKS Bundle (**$428 Savings**) [kube.promo/bundle](https://kube.promo/bundle)
 - KCNA + CKA (**$348 Savings**) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
