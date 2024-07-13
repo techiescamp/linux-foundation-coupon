@@ -10,6 +10,8 @@ Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; T
 
 Get up to 40% off on Certifications and bundles using the exclusive Techies sale.
 
+>Note: This offer expires very soon
+
 For individual certifiations (CKA, CKAD , CKS ect), SkillCreds and courses,
 
 Use code **K8S10YEARSCT** at [kube.promo/devops](https://kube.promo/devops) to get flat 40% discount.
@@ -23,7 +25,7 @@ The following are the best bundles to **save upto 50% (up to $818)** with code *
 - KCSA + CKS Exam Bundle (**$348 Savings**) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle (**$203 Savings**) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
-> **Savings Tip:** If you havent done any Kubernetes certification yet, the best savings is on the Kubestronaut Bundle with **50% savings**
+💰 **Savings Tip:** If you havent done any Kubernetes certification yet, the best savings is on the Kubestronaut Bundle with **50% savings**
 
 >Note: You have one year of validity to appear for the certification exam after registration
 
