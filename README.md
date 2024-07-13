@@ -6,22 +6,24 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Follwing are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [Up to 40% OFF] Linux Foundation Techies Sale
+## [Up to 50% OFF] Linux Foundation Kubernetes 10 Years Sale
 
 Get up to 40% off on Certifications and bundles using the exclusive Techies sale.
 
 For individual certifiations (CKA, CKAD , CKS ect), SkillCreds and courses,
 
-Use code **30COMTECHIES** at [kube.promo/devops](https://kube.promo/devops) to get flat 30% discount.
+Use code **K8S10YEARSCT** at [kube.promo/devops](https://kube.promo/devops) to get flat 40% discount.
 
-The following are the best bundles to **save upto 40% (up to $788)** with code **30COMTECHIES**
+The following are the best bundles to **save upto 50% (up to $788)** with code **K8S10YEARSCT**
 
-- KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($355 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+- CKA + CKAD + CKS + KCNA + KCSA (**$938 Savings**): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS Exam bundle (**$638 Savings**): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle (**$428 Savings**) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA (**$348 Savings**) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle (**$348 Savings**) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle (**$203 Savings**) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+> **Savings Tip:** If you havent done any Kubernetes certification yet, the best savings is on the Kubestronaut Bundle with **50% savings**
 
 >Note: You have one year of validity to appear for the certification exam after registration
 
@@ -167,15 +169,6 @@ For individual certifications, use the following exclusive coupon code.
 Use code **MAY24SPECIALCT** at [kube.promo/devops](https://kube.promo/devops) and save 46%.
 
 To **save up to 55%** on certifications, use code **MAY24PLUSCT** with the following bundles.
-
-- KCNA + KCSA + CKA + CKAD + CKS (**$938 Savings**): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle (**$638 Savings**): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle (**$428 Savings**) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA (**$348 Savings**) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle (**$348 Savings**) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle (**$203 Savings**) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> **Savings Tip:** If you havent done any Kubernetes certification yet, the best savings is on the Kubestronaut Bundle with **55.5% savings**
 
 For instructor led trainings, sse Code **MAY24ILTCT** to get 20% flat discount.
 
