@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For July 2024)
+# Linux Foundation Coupons (Updated For August 2024)
 
 Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
@@ -6,11 +6,11 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [Up to 50% OFF] Linux Foundation Kubernetes 10 Years Sale
+## [Up to 50% OFF] Linux Foundation Kubernetes 10 Years Sale - Ends in Few Hours
 
 Get up to 40% off on Certifications and bundles using the exclusive Techies sale.
 
->Note: This offer expires very soon
+>Note: This offer expires today. Just few hours left to redeem this coupon.
 
 For individual certifications (CKA, CKAD , CKS ect), SkillCreds and courses,
 
@@ -25,19 +25,9 @@ The following are the best bundles to **save upto 50% (up to $818)** with code *
 - KCSA + CKS Exam Bundle (**$348 Savings**) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle (**$203 Savings**) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
-Use Code **JULY24BONUS** for $400 Off IT Professional Programs & Power Bundles
-
 💰 **Savings Tip:** If you haven't done any Kubernetes certification yet, the best savings are on the Kubestronaut Bundle with **50% savings**
 
 >Note: You have one year of validity to appear for the certification exam after registration
-
-## [$400 OFF] ALL Instructor-led Trainings
-
-Get a **flat $400 discount** on all the Instructor-led Training from the Linux Foundation using this exclusive discount.
-
-Use code **JULY24ILT** at checkout.
-
-> Note: This offer expires on July 3oth, 2024
 
 ## Up to 25% OFF Linux Foundation Site-Wide Discount
 
@@ -177,3 +167,8 @@ As part of the Kubernetes 10th birthday sale, get a flat 40% off all certificati
 
 Use code **K8STURNS10CT** at [kube.promo/devops](https://kube.promo/devops) to get flat 40% discount.
 
+## [$400 OFF] ALL Instructor-led Trainings [Expired]
+
+Get a **flat $400 discount** on all the Instructor-led Training from the Linux Foundation using this exclusive discount.
+
+Use code **JULY24ILT** at checkout.
