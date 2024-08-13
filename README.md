@@ -6,6 +6,14 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
+## [35% OFF] Linux Foundation August BlockBuster Sale
+
+As part of the exclusive Blockbuster sale, get a flat 35% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs.
+
+Use code **AUGUST24** at [kube.promo/devops](https://kube.promo/devops)
+
+**Note:** Offer Ends August 20th, 2024. 
+
 ## Up to 30% OFF Linux Foundation Site-Wide Discount
 
 Get a 20% discount on all the Linux Foundation certifications, training, Skillcreds, and IT Professional programs
@@ -57,11 +65,6 @@ Here's a table with some specific Linux Foundation certifications.
 | Cloud Engineers    | - CKA (Certified Kubernetes Administrator) <br> - CKAD (Certified Kubernetes Application Developer) <br> - CKS (Certified Kubernetes Security Specialist) <br> - LFCS (Linux Foundation Certified System Administrator) |
 | Security Teams     | - LFCS (Linux Foundation Certified System Administrator) <br> - CKS (Certified Kubernetes Security Specialist) <br> - Secure Software Development Fundamentals |
 
-## [35% OFF] Holiday Discount Sale [Expired]
-
-As part of the Holiday discount sale, get a flat 35% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs.
-
-Use code **HOLIDAY23COM** at [kube.promo/devops](https://kube.promo/devops)
 
 ## 35% OFF Linux Foundation New Year Sale [Expired]
 
