@@ -10,9 +10,9 @@ Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; 
 
 As part of the exclusive Blockbuster sale, get a flat 35% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs.
 
-Use code **AUGUST24** at [kube.promo/devops](https://kube.promo/devops)
+Use code **AUGUST24CT** at [kube.promo/devops](https://kube.promo/devops)
 
-**Note:** Offer Ends August 20th, 2024. 
+**Note:** Offer Ends August 22th, 2024. 
 
 ## Up to 30% OFF Linux Foundation Site-Wide Discount
 
