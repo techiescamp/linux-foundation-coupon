@@ -10,7 +10,19 @@ Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; 
 
 As part of the exclusive Blockbuster sale, get a flat 35% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs.
 
-Use code **AUGUST24CT** at [kube.promo/devops](https://kube.promo/devops)
+**Coupon:** Use code **AUGUST24CT** at [kube.promo/devops](https://kube.promo/devops)
+
+The following are the best bundles to **save 45% ($800+ savings)** with code **AUGUST24CT**
+
+- KCNA + KCSA + CKA + CKAD + CKS ($800+ Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS Exam bundle ($550+ Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+>Note: You have one year of validity to appear for the certification exam after registration
+
 
 **Note:** Offer Ends August 22th, 2024. 
 
