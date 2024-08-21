@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [35% OFF] Linux Foundation August BlockBuster Sale
+## [UpTo 45% OFF] Linux Foundation August BlockBuster Sale
 
 As part of the exclusive Blockbuster sale, get a flat 35% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs.
 
