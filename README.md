@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For August 2024)
+# Linux Foundation Coupons (Updated For September 2024)
 
 Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
@@ -42,7 +42,6 @@ Following are the popular bundles. Use code **COMBUNDLE25** with the bundles to 
 Linux Foundation has a rewards program where you can get 50% discount on certifications once you spend $500 with the Linux foundation. You can get 50% discount on any certification or training program.
 
 Rewards: [Check your Rewards Here](https://openprofile.dev/myrewards/coupons)
-
 
 ## Recommended Linux Foundation Certifications
 
