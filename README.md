@@ -10,9 +10,9 @@ Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; 
 
 As part of the exclusive Summer sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs.
 
-**Coupon:** Use code **30K8SUG** at [kube.promo/devops](https://kube.promo/devops)
+**Coupon:** Use code **30COMTECHIES** at [kube.promo/devops](https://kube.promo/devops)
 
-The following are the best bundles to **save 40% ($800+ savings)** with code **30K8SUG**
+The following are the best bundles to **save 40% ($800+ savings)** with code **30COMTECHIES**
 
 - KCNA + KCSA + CKA + CKAD + CKS ($800+ Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle ($550+ Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
