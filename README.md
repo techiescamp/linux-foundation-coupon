@@ -25,7 +25,7 @@ The following are the best bundles to **save 43% ($700+ savings)** with code **S
 
 >Note: You have one year of validity to appear for the certification exam after registration
 
->Validity: This coupon is valid through September 17, 2024
+>Validity: This offer is extended till September 20, 2024
 
 ## [UpTo 40% OFF] Linux Foundation DevOps Sale 
 
