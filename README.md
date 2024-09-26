@@ -6,17 +6,17 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [UpTo 40% OFF] Linux Foundation DevOps Sale 
+## [UpTo 45% OFF] Linux Foundation 2-Days ONLY Sale
 
-As part of the exclusive Summer sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs.
+Save up to 45% on CKA, CKAD and other Linux foundation certifications, e-Learning and other programs. This is a two days only limited time sale.
 
-**Coupon:** Use code **30COMTECHIES** at [kube.promo/devops](https://kube.promo/devops)
+**Coupon:** Use code **OSSEU24ICYMI** at [kube.promo/devops](https://kube.promo/devops)
 
-You can get up to 40% discount using the followiing bundles.
+You can get up to 45% discount using the following bundles.
 
-The following are the best bundles to **save 40% ($700+ savings)** with code **30COMTECHIES**
+The following are the best bundles to **save 45% ($800+ savings)** with code **OSSEU24ICYMI**
 
-- KCNA + KCSA + CKA + CKAD + CKS (43% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + KCSA + CKA + CKAD + CKS (45% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle (40% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
 - CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
 - KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
@@ -24,6 +24,12 @@ The following are the best bundles to **save 40% ($700+ savings)** with code **3
 - KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 >Note: You have one year of validity to appear for the certification exam after registration
+
+## [UpTo 40% OFF] Linux Foundation DevOps Sale 
+
+As part of the exclusive Summer sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs.
+
+**Coupon:** Use code **30COMTECHIES** at [kube.promo/devops](https://kube.promo/devops)
 
 ## Up to 35% OFF Linux Foundation Site-Wide Discount
 
