@@ -6,13 +6,15 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [UpTo 45% OFF] Linux Foundation 2-Days ONLY Sale
+## [UpTo 47% OFF] Linux Foundation 2-Days ONLY Sale
 
-Save up to 45% on CKA, CKAD and other Linux foundation certifications, e-Learning and other programs. This is a two days only limited time sale.
+Save up to 47% on CKA, CKAD and other Linux foundation certifications, e-Learning and other programs. This is a two days only limited time sale.
+
+For individual certifications, save flat 40%.
 
 **Coupon:** Use code **OSSEU24ICYMI** at [kube.promo/devops](https://kube.promo/devops)
 
-You can get up to 45% discount using the following bundles.
+You can get up to 47% discount using the following bundles.
 
 The following are the best bundles to **save 45% ($800+ savings)** with code **OSSEU24ICYMI**
 
