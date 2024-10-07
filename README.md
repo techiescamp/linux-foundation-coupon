@@ -25,7 +25,7 @@ The following are the best bundles to **save upto 50% (up to $818)** with code *
 
 💰 **Savings Tip:** If you haven't done any Kubernetes certification yet, the best savings are on the Kubestronaut Bundle with **50% savings**
 
->Note: This offer expires today. Just few hours left to redeem this coupon.
+>Note: This offer in few days. So hurry up and make use of this offer before it expires.
 
 ## [UpTo 40% OFF] Linux Foundation DevOps Sale is Back
 
