@@ -75,8 +75,6 @@ Following are the popular bundles. Use code **COMBUNDLE25** with the bundles to 
 1. [CKA + CKAD + CKS Bundle](https://kube.promo/k8s-bundle)
 2. [CKA + CKS](https://kube.promo/bundle)
 
-> You can also check the [Linux Foundation Coupon](https://comtechies.com/linux-foundation-coupon.html) blog for exclusive coupons
-
 ## 50% OFF CKA Coupon
 
 Linux Foundation has a rewards program where you can get 50% discount on certifications once you spend $500 with the Linux foundation. You can get 50% discount on any certification or training program.
