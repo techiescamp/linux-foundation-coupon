@@ -6,21 +6,15 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [UpTo 45% OFF] Linux Foundation Cybersecurity Sale 
+## [UpTo 40% OFF] Linux Foundation Haloween Sale (Limited Sale)
 
-As part of the exclusive Summer sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs.
+As part of the exclusive Haloween sale, get a flat 35% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
 
-**Coupon:** Use code **30COMTECHIES** at [kube.promo/devops](https://kube.promo/devops)
-
-Use code **OCT24CYBER** to get flat 40% on KCNA and CKS Certifications. 
-
-You can get up to 45% discount on KCNA and CKS Certification bundles.
-
-- KCSA + CKS Exam Bundle ($288 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+**Coupon:** Use code **SPOOKY35CT** at [kube.promo/devops](https://kube.promo/devops)
 
 You can get up to 40% discount using the following bundles.
 
-The following are the best bundles to **save 40% ($700+ savings)** with code **30COMTECHIES**
+The following are the best bundles to **save 40% ($700+ savings)** with code **SPOOKY35CT**
 
 - KCNA + KCSA + CKA + CKAD + CKS (40% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle (38% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
@@ -35,13 +29,35 @@ The following are the best bundles to **save 40% ($700+ savings)** with code **3
 
 >Note: This offer in few days. So hurry up and make use of this offer before it expires.
 
+## Linux Foundation KubeCon NA Discount Codes
+
+KubeCon + CloudNativeCon North America 2024 in Salt Lake City is coming up quickly! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing.
+
+### All-Access Pass: 
+
+This pass type includes entry to all 16 CNCF-Hosted Co-Located Events, and KubeCon + CloudNativeCon. 
+
+**Individual**: $899  Use code COMTECHIES_AAI
+
+**Corporate**: $1,549 Use code COMTECHIES_AAC
+
+### KubeCon + CloudNativeCon Only Pass:
+
+This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will be granted to CNCF-hosted co-located events.
+
+**Individual**: $600 Use code COMTECHIES_I
+
+**Corporate**: $1,250 Use code COMTECHIES_C
+
+> **Register Here:** [Kubecon NA Registration](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
+
 ## Up to 35% OFF Linux Foundation Site-Wide Discount
 
 Get a 20% discount on all the Linux Foundation certifications, training, Skillcreds, and IT Professional programs
 
-**Coupon Code:** Get discount using code **SCRIPT20** at [kube.promo/devops](https://kube.promo/devops)
+**Coupon Code:** Get discount using code **SCRIPT30** at [kube.promo/devops](https://kube.promo/devops)
 
-The following are the best bundles to **save upto 35%** with code **COMBUNDLE25**
+The following are the best bundles to **save upto 35%** with code **DCUBE30**
 
 - CKA + CKS Bundle ($306 Savings): [kube.promo/bundle](https://kube.promo/bundle)
 - KCNA + CKA ( $210 Savings): [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
