@@ -6,6 +6,29 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
+## [Up to 47% OFF] Linux Foundation Kubecon Sale (Limited Sale)
+
+As part of the exclusive Kubecon sale, get a flat 40% discount on all the Kubernetescertifications and bundles.
+
+For individual certifications (CKA, CKAD , CKS ect), SkillCreds and courses,
+
+Get up to 40% off on Certifications and bundles using the exclusive Techies sale.
+
+**Coupon:** Use code **NOV24KUBECT** at [kube.promo/devops](https://kube.promo/devops)
+
+The following are the best bundles to **save upto 47% (up to $)** with code **NOV24KUBECT**
+
+- KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle ($355 Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+For other certifications,training programs, skillcred, and IT professional programs and bundles, get a flat 30% discount.
+
+**Coupon:** Use code **ROAD2KUBECT** 
+
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale 
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -198,21 +221,3 @@ This September, Linux Foundation promo is focused on sharpening your skillset fo
 Save up to 47% on CKA, CKAD and other Linux foundation certifications, e-Learning and other programs. This is a two days only limited time sale.
 
 For individual certifications, save flat 40%.
-
-## [Up to 50% OFF] Linux Foundation Prime Sale [Expired]
-
-For individual certifications (CKA, CKAD , CKS ect), SkillCreds and courses,
-
-Get up to 40% off on Certifications and bundles using the exclusive Techies sale.
-
-**Coupon:** Use code **OCTPRIME24CT** at [kube.promo/devops](https://kube.promo/devops)
-
-The following are the best bundles to **save upto 50% (up to $818)** with code **OCTPRIME24CT**
-
-- CKA + CKAD + CKS + KCNA + KCSA (**$818 Savings**): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle (**$638 Savings**): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle (**$428 Savings**) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA (**$348 Savings**) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle (**$348 Savings**) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle (**$203 Savings**) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
