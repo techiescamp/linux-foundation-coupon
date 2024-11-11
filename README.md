@@ -16,9 +16,12 @@ Get up to 40% off on Certifications and bundles using the exclusive Techies sale
 
 **Coupon:** Use code **NOV24KUBECT** at [kube.promo/devops](https://kube.promo/devops)
 
-The following are the best bundles to **save upto 47%** with code **NOV24KUBECT**
+Use code **NOV24KUBECT**  to **save upto 47%** on Kubestronaut Bundle.
 
 - KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+
+**Coupon:** Use code **ROAD2KUBECT** with the following bundles for maxium savings.
+
 - CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
 - CKA + CKS Bundle ($355 Savings) [kube.promo/bundle](https://kube.promo/bundle)
 - KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
@@ -27,7 +30,6 @@ The following are the best bundles to **save upto 47%** with code **NOV24KUBECT*
 
 For other certifications,training programs, skillcred, and IT professional programs and bundles, get a flat 30% discount.
 
-**Coupon:** Use code **ROAD2KUBECT** 
 
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale 
 
