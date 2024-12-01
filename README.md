@@ -27,12 +27,10 @@ Use code **CYBER24BUNDLECT**  to **save upto 65%** on the following bundles.
 
 Following are the other Cyber Monday Deals.
 
-- 60% Off IT Professional Programs w/ Code CYBER24BUNDLECT
-- 60% Off Power Bundles w/ Code CYBER24BUNDLECT
-- 60% Off Course + 1 Cert Bundles w/ Code CYBER24BUNDLECT
-- 60% Off Cert Only Bundles Bundles w/ Code CYBER24BUNDLECT
-- 50% Off Individual Courses & Certifications w/ Code CYBER24CCTECHIES
-- 50% Off Instructor-Led Courses w/ Code CYBER24CCTECHIES
+- 60% Off IT Professional Programs w/ Code **CYBER24BUNDLECT**
+- 60% Off Power Bundles w/ Code **CYBER24BUNDLECT**
+- 50% Off Individual Courses & Certifications w/ Code **CYBER24CCTECHIES**
+- 50% Off Instructor-Led Courses w/ Code **CYBER24CCTECHIES**
 
 >Note: This Cyber Modnay offer expires soon. So hurry up and lokin the price.
 
