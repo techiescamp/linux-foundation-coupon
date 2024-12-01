@@ -8,11 +8,13 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [UpTo 65% OFF] Linux Foundation Cyber Monday Sale
+## [UpTo 65% OFF] Linux Foundation Cyber Monday Sale (Expires Soon)
 
 The much awaited Cyber Monday sale is live.
 
-You will get flat 50% off on ndividual courses, certifications, instructor led courses, and skillcreds usinf the following coupon.
+> **Important Note:** This is the best offer you can get from the Linux Foundation all year.
+
+You will get flat 50% off on individual courses, certifications, instructor led courses, and skillcreds usinf the following coupon.
 
 **Coupon:** Use code **CYBER24CCTECHIES** at [kube.promo/devops](https://kube.promo/devops)
 
