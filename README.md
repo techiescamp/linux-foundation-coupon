@@ -12,7 +12,7 @@ Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; 
 
 The much awaited Cyber Monday sale is live.
 
-> **Important Note:** This is the best offer you can get from the Linux Foundation all year.
+> **Important Note:** This is the best offer you can get from the Linux Foundation all year. This Cyber Monday offer expires soon. So hurry up and lokin the price.
 
 You will get flat 50% off on individual courses, certifications, instructor led courses, and skillcreds usinf the following coupon.
 
@@ -34,7 +34,7 @@ Following are the other Cyber Monday Deals.
 - 50% Off Individual Courses & Certifications w/ Code **CYBER24CCTECHIES**
 - 50% Off Instructor-Led Courses w/ Code **CYBER24CCTECHIES**
 
->Note: This Cyber Modnay offer expires soon. So hurry up and lokin the price.
+> **💰 Cyber Week $100 Purchase Reward:** With every purchase made during this sale, you will receive a $100 gift voucher, which you can use for future certification or training purchases from January 1, 2025, through October 31, 2025.
 
 ## [Up to 47% OFF] Linux Foundation November Sale (Limited Time Offer)
 
