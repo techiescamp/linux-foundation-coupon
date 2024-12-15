@@ -8,55 +8,6 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [UpTo 65% OFF] Linux Foundation Cyber Monday Sale (Expires Soon)
-
-The much awaited Cyber Monday sale is live.
-
-> **Important Note:** This is the best offer you can get from the Linux Foundation all year. This Cyber Monday offer expires soon. So hurry up and lokin the price.
-
-You will get flat 50% off on individual courses, certifications, instructor led courses, and skillcreds usinf the following coupon.
-
-**Coupon:** Use code **CYBER24CCTECHIES** at [kube.promo/devops](https://kube.promo/devops)
-
-Use code **CYBER24BUNDLECT**  to **save upto 65%** on the following bundles.
-
-- KCNA + KCSA + CKA + CKAD + CKS (65% - $1087 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle (63% - $747 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle (63% - $500 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA (68% - $338 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle (64% - $407 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle (66% - $330 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-Following are the other Cyber Monday Deals.
-
-- 60% Off IT Professional Programs w/ Code **CYBER24BUNDLECT**
-- 60% Off Power Bundles w/ Code **CYBER24BUNDLECT**
-- 50% Off Individual Courses & Certifications w/ Code **CYBER24CCTECHIES**
-- 50% Off Instructor-Led Courses w/ Code **CYBER24CCTECHIES**
-
-> **💰 Cyber Week $100 Purchase Reward:** With every purchase made during this sale, you will receive a $100 gift voucher, which you can use for future certification or training purchases from January 1, 2025, through October 31, 2025.
-
-## [Up to 47% OFF] Linux Foundation November Sale (Limited Time Offer)
-
-As part of the exclusive Kubecon sale, get a flat 40% discount on all the Kubernetes certifications and bundles.
-
-For individual certifications (CKA, CKAD, CKS ect), SkillCreds and courses,
-
-Get up to 40% off on Certifications and bundles using the exclusive Techies sale.
-
-**Coupon:** Use code **40NOV24CT** at [kube.promo/devops](https://kube.promo/devops)
-
-Use code **40NOV24CT**  to **save upto 47%** on the following bundles.
-
-- KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($355 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
->Note: This offer in few days. So hurry up and make use of this offer before it expires.
-
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale 
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -247,3 +198,53 @@ This September, Linux Foundation promo is focused on sharpening your skillset fo
 Save up to 47% on CKA, CKAD and other Linux foundation certifications, e-Learning and other programs. This is a two days only limited time sale.
 
 For individual certifications, save flat 40%.
+
+## [UpTo 65% OFF] Linux Foundation Cyber Monday Sale (Expired)
+
+The much awaited Cyber Monday sale is live.
+
+> **Important Note:** This is the best offer you can get from the Linux Foundation all year. This Cyber Monday offer expires soon. So hurry up and lokin the price.
+
+You will get flat 50% off on individual courses, certifications, instructor led courses, and skillcreds usinf the following coupon.
+
+**Coupon:** Use code **CYBER24CCTECHIES** at [kube.promo/devops](https://kube.promo/devops)
+
+Use code **CYBER24BUNDLECT**  to **save upto 65%** on the following bundles.
+
+- KCNA + KCSA + CKA + CKAD + CKS (65% - $1087 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS Exam bundle (63% - $747 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle (63% - $500 Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA (68% - $338 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle (64% - $407 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle (66% - $330 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+Following are the other Cyber Monday Deals.
+
+- 60% Off IT Professional Programs w/ Code **CYBER24BUNDLECT**
+- 60% Off Power Bundles w/ Code **CYBER24BUNDLECT**
+- 50% Off Individual Courses & Certifications w/ Code **CYBER24CCTECHIES**
+- 50% Off Instructor-Led Courses w/ Code **CYBER24CCTECHIES**
+
+> **💰 Cyber Week $100 Purchase Reward:** With every purchase made during this sale, you will receive a $100 gift voucher, which you can use for future certification or training purchases from January 1, 2025, through October 31, 2025.
+
+## [Up to 47% OFF] Linux Foundation November Sale (Expired)
+
+As part of the exclusive Kubecon sale, get a flat 40% discount on all the Kubernetes certifications and bundles.
+
+For individual certifications (CKA, CKAD, CKS ect), SkillCreds and courses,
+
+Get up to 40% off on Certifications and bundles using the exclusive Techies sale.
+
+**Coupon:** Use code **40NOV24CT** at [kube.promo/devops](https://kube.promo/devops)
+
+Use code **40NOV24CT**  to **save upto 47%** on the following bundles.
+
+- KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle ($355 Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+>Note: This offer in few days. So hurry up and make use of this offer before it expires.
+
