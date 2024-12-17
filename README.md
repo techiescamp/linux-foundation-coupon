@@ -10,8 +10,7 @@ Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; 
 
 ## [UpTo 42% OFF] Linux Foundation Holiday Sale (2 Days Only)
 
-Get up to 40% discount on all the linux foundation certification and other programs for just two days.
-
+Get up to 40% discount on all the linux foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
 For individual certifications, get flat 35% using the following coupon.
 
 **Coupon:** Use code **HOLIDAY24CT** at [kube.promo/devops](https://kube.promo/devops)
@@ -24,6 +23,12 @@ You can get up to 42% discount using the following bundles using code **HOLIDAY2
 - KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 - KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+If you bundle Your Certs with THRIVE Annual Subscription you can get 40% off certifications along with,
+
+- 100+ educational products
+- 45+ e-learning courses with hand-on labs
+- 8+ SkillCreds
 
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale 
 
