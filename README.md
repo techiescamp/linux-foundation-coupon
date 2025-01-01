@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For December 2024)
+# Linux Foundation Coupons (Updated For January 2025)
 
 Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
@@ -16,7 +16,7 @@ As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux F
 
 You can get up to 38% discount using the following bundles.
 
-The following are the best bundles to **save 38% ($600+ savings)** with code **3OCOMTECHIES**
+The following are the best bundles to **save 38% ($600+ savings)** with code **DCUBE30**
 
 - KCNA + KCSA + CKA + CKAD + CKS (38% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle (35% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
