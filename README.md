@@ -29,28 +29,6 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 
 💰 **Savings Tip:** If you haven't done any Kubernetes certification yet, the best savings are on the Kubestronaut Bundle with **38% savings**
 
-## Linux Foundation KubeCon NA Discount Codes
-
-KubeCon + CloudNativeCon North America 2024 in Salt Lake City is coming up quickly! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing.
-
-### All-Access Pass: 
-
-This pass type includes entry to all 16 CNCF-Hosted Co-Located Events, and KubeCon + CloudNativeCon. 
-
-**Individual**: $899  Use code COMTECHIES_AAI
-
-**Corporate**: $1,549 Use code COMTECHIES_AAC
-
-### KubeCon + CloudNativeCon Only Pass:
-
-This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will be granted to CNCF-hosted co-located events.
-
-**Individual**: $600 Use code COMTECHIES_I
-
-**Corporate**: $1,250 Use code COMTECHIES_C
-
-> **Register Here:** [Kubecon NA Registration](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
-
 ## Up to 35% OFF Linux Foundation Site-Wide Discount
 
 Get a 20% discount on all the Linux Foundation certifications, training, Skillcreds, and IT Professional programs
@@ -269,4 +247,29 @@ If you bundle Your Certs with THRIVE Annual Subscription you can get 40% off cer
 - 100+ educational products
 - 45+ e-learning courses with hand-on labs
 - 8+ SkillCreds
+
+## Linux Foundation KubeCon Discount Codes [Expired]
+
+> We will update the new coupons for next Kubecon.
+
+KubeCon + CloudNativeCon North America 2024 in Salt Lake City is coming up quickly! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing.
+
+### All-Access Pass: 
+
+This pass type includes entry to all 16 CNCF-Hosted Co-Located Events, and KubeCon + CloudNativeCon. 
+
+**Individual**: $899  Use code COMTECHIES_AAI
+
+**Corporate**: $1,549 Use code COMTECHIES_AAC
+
+### KubeCon + CloudNativeCon Only Pass:
+
+This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will be granted to CNCF-hosted co-located events.
+
+**Individual**: $600 Use code COMTECHIES_I
+
+**Corporate**: $1,250 Use code COMTECHIES_C
+
+> **Register Here:** [Kubecon NA Registration](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
+
 
