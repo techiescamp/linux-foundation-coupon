@@ -5,7 +5,7 @@ Looking for the latest Linux Foundation coupon codes? We've got you covered.
 As part of supporting the DevOps community, we keep all the Linux Foundation coupons updated in this page.
 
 > [!IMPORTANT]
-> **Important Update:** CKA, CKAD, CKS and LFCA prices are set to increase from $395 to $435 in January 2025. Lock in the current discounts as soon as possible!
+> **Important Update:** CKA, CKAD, CKS and LFCA prices are set to increase from $395 to $435 in Febraury 4th 2025. Lock in the current discounts as soon as possible!
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
