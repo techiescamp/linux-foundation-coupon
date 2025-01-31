@@ -9,7 +9,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [UpTo 42% OFF] Linux Foundation January Sale (Ending in 2 Days)
+## [UpTo 42% OFF] Linux Foundation January Sale (Last Day)
 
 Get up to 42% discount on all the linux foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
 For individual certifications, get flat 35% using the following coupon.
