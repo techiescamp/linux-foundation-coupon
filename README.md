@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For January 2025)
+# Linux Foundation Coupons (Updated For February 2025)
 
 Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
@@ -9,7 +9,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [UpTo 42% OFF] Linux Foundation January Sale (Last Day)
+## [UpTo 42% OFF] Linux Foundation January Sale (Last Few Hours - Act Fast)
 
 Get up to 42% discount on all the linux foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
 For individual certifications, get flat 35% using the following coupon.
