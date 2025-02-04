@@ -5,9 +5,34 @@ Looking for the latest Linux Foundation coupon codes? We've got you covered.
 As part of supporting the DevOps community, we keep all the Linux Foundation coupons updated in this page.
 
 > [!IMPORTANT]
-> **Important Update:** CKA, CKAD, CKS and LFCA prices are set to increase **from $395 to $445** in Febraury 4th 2025. Lock in the current discounts as soon as possible!
+> **Important Update:** CKA, CKAD, CKS and LFCA prices are set to increase **from $395 to $445** in Febraury 4th 2025(Today). Lock in the current discounts as soon as possible!
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
+
+## [UpTo 47% OFF] Linux Foundation Lunar New Year Sale
+
+Get up to 47% discount on all the linux foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
+For individual certifications, get flat 40% using the following coupon.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **LUNAR25CT** at [kube.promo/devops](https://kube.promo/devops)
+
+You can get up to 47% discount using the following bundles using code **LUNAR25CT**
+
+- KCNA + KCSA + CKA + CKAD + CKS (47% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS Exam bundle (47% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+If you bundle Your Certs with THRIVE Annual Subscription you can get 40% off certifications along with,
+
+- 100+ educational products
+- 45+ e-learning courses with hand-on labs
+- 8+ SkillCreds
+
+  >Note: This offer only valid forfew days. So hurry up and make use of this offer before it expires.
 
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
@@ -253,29 +278,5 @@ This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will b
 
 > **Register Here:** [Kubecon NA Registration](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
 
-## [UpTo 42% OFF] Linux Foundation January Sale (Expired)
-
-Get up to 42% discount on all the linux foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
-For individual certifications, get flat 35% using the following coupon.
-
-> [!IMPORTANT]
->**Coupon:** Use code **JANUARY25CT** at [kube.promo/devops](https://kube.promo/devops)
-
-You can get up to 42% discount using the following bundles using code **JANUARY25CT**
-
-- KCNA + KCSA + CKA + CKAD + CKS (42% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle (40% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-If you bundle Your Certs with THRIVE Annual Subscription you can get 40% off certifications along with,
-
-- 100+ educational products
-- 45+ e-learning courses with hand-on labs
-- 8+ SkillCreds
-
-  >Note: This offer in few days. So hurry up and make use of this offer before it expires.
 
 
