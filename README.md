@@ -4,9 +4,6 @@ Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
 As part of supporting the DevOps community, we keep all the Linux Foundation coupons updated in this page.
 
-> [!IMPORTANT]
-> **Important Update:** CKA, CKAD, CKS and LFCA prices are set to increase **from $395 to $445** in Febraury 4th 2025(Today). Lock in the current discounts as soon as possible!
-
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
 ## [UpTo 47% OFF] Linux Foundation Lunar New Year Sale
@@ -19,7 +16,7 @@ For individual certifications, get flat 40% using the following coupon.
 
 You can get up to 47% discount using the following bundles using code **LUNAR25CT**
 
-- KCNA + KCSA + CKA + CKAD + CKS (47% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + KCSA + CKA + CKAD + CKS (47% - $858 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle (47% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
 - CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
 - KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
