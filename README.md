@@ -6,31 +6,6 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [UpTo 47% OFF] Linux Foundation Lunar New Year Sale
-
-Get up to 47% discount on all the linux foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
-For individual certifications, get flat 40% using the following coupon.
-
-> [!IMPORTANT]
->**Coupon:** Use code **LUNAR25CT** at [kube.promo/devops](https://kube.promo/devops)
-
-You can get up to 47% discount using the following bundles using code **LUNAR25CT**
-
-- KCNA + KCSA + CKA + CKAD + CKS (47% - $858 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle (47% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-If you bundle Your Certs with THRIVE Annual Subscription you can get 40% off certifications along with,
-
-- 100+ educational products
-- 45+ e-learning courses with hand-on labs
-- 8+ SkillCreds
-
-  >Note: This offer only valid forfew days. So hurry up and make use of this offer before it expires.
-
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -274,6 +249,31 @@ This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will b
 **Corporate**: $1,250 Use code COMTECHIES_C
 
 > **Register Here:** [Kubecon NA Registration](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
+
+## [UpTo 47% OFF] Linux Foundation Lunar New Year Sale [Expired]
+
+Get up to 47% discount on all the linux foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
+For individual certifications, get flat 40% using the following coupon.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **LUNAR25CT** at [kube.promo/devops](https://kube.promo/devops)
+
+You can get up to 47% discount using the following bundles using code **LUNAR25CT**
+
+- KCNA + KCSA + CKA + CKAD + CKS (47% - $858 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS Exam bundle (47% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+If you bundle Your Certs with THRIVE Annual Subscription you can get 40% off certifications along with,
+
+- 100+ educational products
+- 45+ e-learning courses with hand-on labs
+- 8+ SkillCreds
+
+  >Note: This offer only valid forfew days. So hurry up and make use of this offer before it expires.
 
 
 
