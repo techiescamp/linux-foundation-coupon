@@ -50,10 +50,6 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 > [!TIP]  
 > 💰 **Savings Tip:** If you haven't done any Kubernetes certification yet, the best savings are on the Kubestronaut Bundle with **38% savings**
 
-## 75% OFF Super Bundles
-
-
-
 ## Up to 35% OFF Linux Foundation Site-Wide Discount
 
 Get a 20% discount on all the Linux Foundation certifications, training, Skillcreds, and IT Professional programs
