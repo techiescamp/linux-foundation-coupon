@@ -10,8 +10,15 @@ Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; 
 
 Get up to 75% discount at part of this exclusive February sale.
 
+For individual certifications get 30%.
+
 > [!IMPORTANT]
->**Coupon:** Use code **FEB25BUNTECHIES** to get 50% off on the follwing bundles
+>**Coupon:** Use code **DCUBE30** at [kube.promo/devops](https://kube.promo/devops)
+
+To get more than 50% discount, you can use the certifications bundles.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **FEB25BUNTECHIES** with the the follwing bundles
 
 - KCNA + KCSA + CKA + CKAD + CKS: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
@@ -20,8 +27,10 @@ Get up to 75% discount at part of this exclusive February sale.
 - KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
+To get 75% discount, use the following super bundles.
+
 > [!IMPORTANT]
->**Coupon:** Use code **FEB25SUPERTECHIES** to get 75% off on the follwing super bundles
+>**Coupon:** Use code **FEB25SUPERTECHIES** with the following super bundles
 
 - Cloud Native Super Bundle $̶2̶,̶2̶3̶9̶ $560: [kube.promo/cnsp](https://kube.promo/cnsp)
 - Cybersecurity Super Bundle: $̶3̶,̶1̶2̶9̶ $783 [kube.promo/csp](https://kube.promo/csp)
