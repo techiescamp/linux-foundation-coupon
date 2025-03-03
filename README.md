@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For February 2025)
+# Linux Foundation Coupons (Updated For March 2025)
 
 Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
