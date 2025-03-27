@@ -23,6 +23,12 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 - KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
+> [!NOTE]
+>Note: You have one year of validity to appear for the certification exam after registration
+
+> [!TIP]  
+> 💰 **Savings Tip:** If you haven't done any Kubernetes certification yet, the best savings are on the Kubestronaut Bundle with **40% + savings**
+
 
 ## Up to 35% OFF Linux Foundation Site-Wide Discount
 
@@ -285,9 +291,3 @@ To get more than 55% discount, you can use the certifications bundles.
 - KCNA + CKA ($372 Savings): [kube.promo/kcna-cka](https://kube.promo/kcna-cka)  
 - KCSA + CKS Exam Bundle ($372 Savings): [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)  
 - KCNA + KCSA Exam Bundle ($287 Savings): [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> [!NOTE]
->Note: You have one year of validity to appear for the certification exam after registration
-
-> [!TIP]  
-> 💰 **Savings Tip:** If you haven't done any Kubernetes certification yet, the best savings are on the Kubestronaut Bundle with **55% savings**
