@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For March 2025)
+# Linux Foundation Coupons (Updated For April 2025)
 
 Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
@@ -27,6 +27,10 @@ Use code **KCEU25**  to **save upto 47%** on the following bundles.
 
 > [!TIP]  
 > 💰 **Savings Tip:** If you haven't done any Kubernetes certification yet, the best savings are on the Kubestronaut Bundle with **47% + savings**
+
+## Save 35% on IT Professional Programs at the LF
+
+Use code APRIL25CT to get 35% for IT Professional Programs.
 
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
