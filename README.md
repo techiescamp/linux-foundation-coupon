@@ -13,7 +13,7 @@ As part of the Kubecon Sale, get a flat 40% discount on all the Kubernetes certi
 > [!IMPORTANT]
 > **Coupon:** Use code **APRIL25CT** at [kube.promo/devops](https://kube.promo/devops) to get flat 30% discount.
 
-Use code **APRIL25CT**  to **save upto 40%** on the following bundles.
+Use code **APRIL25CT**  to save upto 40% on the following bundles.
 
 - KCNA + KCSA + CKA + CKAD + CKS ($788 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle ($528 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
