@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes  For Certification &amp; Training Programs
 
-## [Up to 40% OFF] Linux Foundation Kubecon Sale (Expires Soon)
+## [Up to 40% OFF] Linux Foundation April Sale (Expires Soon)
 
 As part of the Kubecon Sale, get a flat 40% discount on all the Kubernetes certifications and bundles.
 
