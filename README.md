@@ -55,7 +55,14 @@ If you are looking for Kubestronaut program, Use code **DCUBE30** with the follo
 - If you dont have any kubernetes certifications, go for [kubestronaut Bundle ](https://kube.promo/kubestronaut)
 - If you have CKA, go for the [CKA to Kubestronaut Bundle](https://trainingportal.linuxfoundation.org/collections/cka-upgrade-to-kubestronaut-bundle)
 - If you have CKAD, go for the [CKAD to Kubestronaut Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/certified-kubernetes-application-developer-ckad-to-kubestronaut-upgrade-bundle)
-- If you are a Kubestronaut, go for the [Kubestronaut to Golden Kubestronaut Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle)
+
+## Golden Kubestronaut Bundle Coupon
+
+If you are a Kubestronaut, you can go for the Golden Kubestronaut  
+
+It has LFCS, PCA, ICA, CCA, CAPA, CGOA, CBA, OTCA, and KCA certification exams.
+
+Use code **DCUBE30** at [Kubestronaut to Golden Kubestronaut Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/kubestronaut-to-golden-kubestronaut-upgrade-bundle) to get 30% discount on the bundle.
 
 ## Up to 35% OFF Linux Foundation Site-Wide Discount
 
