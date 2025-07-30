@@ -6,22 +6,6 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-
-## [UpTo 55% OFF] Linux Foundation Sysadmin Sale
-
-Get upto 55% discount on Linux Foundation certifications as part of the latest Sysadmin sale.
-
-> [!IMPORTANT]
->**Coupon:** Use code **25JULY200CT** at [kube.promo/devops](https://kube.promo/devops)
-
-If you are looking for bundles, use code **25JULY500CT** with the following bundles.
-
-- Kubestronaut Bundle: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS bundle : [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-
-> [!NOTE]
->Note: This is a very limited time offer! Usually, discounts this big are available only during Cyber Monday.
-
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -340,3 +324,18 @@ You can get up to 47% discount using the following bundles using code **PRIME25C
 - KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 - KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+## [UpTo 55% OFF] Linux Foundation Sysadmin Sale [Expired]
+
+Get upto 55% discount on Linux Foundation certifications as part of the latest Sysadmin sale.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **25JULY200CT** at [kube.promo/devops](https://kube.promo/devops)
+
+If you are looking for bundles, use code **25JULY500CT** with the following bundles.
+
+- Kubestronaut Bundle: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS bundle : [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+
+> [!NOTE]
+>Note: This is a very limited time offer! Usually, discounts this big are available only during Cyber Monday.
