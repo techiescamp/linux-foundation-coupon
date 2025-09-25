@@ -16,7 +16,7 @@ Get up to 64% discount at part of this exclusive kubernetes birthday flash sale.
 To get upto 65% discount, you can use the certifications bundles.
 
 > [!IMPORTANT]
->**Coupon:** Use code **SEPT25BUN50** with the the follwing bundles
+>**Coupon:** Use code **SEPT25BUN50CT** with the the follwing bundles
 
 - KCNA + KCSA + CKA + CKAD + CKS ($1685 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)  
 - CKA + CKAD + CKS Exam bundle ($712 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)  
