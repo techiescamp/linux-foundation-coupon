@@ -18,9 +18,10 @@ To get upto 65% discount, you can use the certifications bundles.
 > [!IMPORTANT]
 >**Coupon:** Use code **SEPT25BUN50CT** with the the follwing bundles
 
-- KCNA + KCSA + CKA + CKAD + CKS ($1685 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)  
+- CKA + CKAD ($477 Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle ($477 Savings): [kube.promo/bundle](https://kube.promo/bundle)
 - CKA + CKAD + CKS Exam bundle ($712 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)  
-- CKA + CKS Bundle ($477 Savings): [kube.promo/bundle](https://kube.promo/bundle)  
+- KCNA + KCSA + CKA + CKAD + CKS ($1685 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)  
 - KCNA + CKA ($372 Savings): [kube.promo/kcna-cka](https://kube.promo/kcna-cka)  
 - KCSA + CKS Exam Bundle ($372 Savings): [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)  
 - KCNA + KCSA Exam Bundle ($287 Savings): [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
