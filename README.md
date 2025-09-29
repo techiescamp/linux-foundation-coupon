@@ -6,9 +6,9 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 65% OFF] Linux Foundation Flash Sale (2 Days Only)
+## [UpTo 75% OFF] Linux Foundation Flash Sale (Only Few Hours Left)
 
-Get up to 64% discount at part of this exclusive kubernetes birthday flash sale.
+Get up to 75% discount at part of this exclusive Linux Foundation flash sale.
 
 > [!IMPORTANT]
 >**Coupon:** Use code **DCUBE30** at [kube.promo/devops](https://kube.promo/devops) to get 30% on individual certifications, courses and training programs.
@@ -28,6 +28,13 @@ To get upto 65% discount, you can use the certifications bundles.
 - LFCA + KCNA Exam Bundle ($287 Savings): [kube.promo/lfca-kcna](https://training.linuxfoundation.org/training/linux-foundation-certified-it-associate-lfca-kubernetes-and-cloud-native-associate-kcna-exam-bundle/)
 > [!TIP]  
 > 💰 **Savings Tip:** If you haven't done any Kubernetes certification yet, the best savings are on the Kubestronaut Bundle with **65% + savings**
+
+> [!IMPORTANT]
+>**Coupon:** Use coupon **SEPT25BUN50CT** to save 75% on the following super bundles.
+
+- [Cloud Native Super Bundle](https://trainingportal.linuxfoundation.org/collections/cloud-native-containers-package) [CKA Certification & 6 Courses]
+- [Cybersecurity Super Bundle](https://trainingportal.linuxfoundation.org/collections/cybersecurity-bundle)[CKA, CKS & LFCS certification & 6 courses]
+- [Cloud Native Developer Super Bundle](https://trainingportal.linuxfoundation.org/collections/devsecops-super-bundle)[CKAD & 5 Courses]
 
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
@@ -343,13 +350,6 @@ You can save more than 40% on the following bundles using the same coupon.
 - KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 - KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> [!IMPORTANT]
->**Coupon:** Use coupon **AUG25SUPERCT** to save 75% on the following super bundles.
-
-- [Cloud Native Super Bundle](https://trainingportal.linuxfoundation.org/collections/cloud-native-containers-package) [CKA Certification & 6 Courses]
-- [Cybersecurity Super Bundle](https://trainingportal.linuxfoundation.org/collections/cybersecurity-bundle)[CKA, CKS & LFCS certification & 6 courses]
-- [Cloud Native Developer Super Bundle](https://trainingportal.linuxfoundation.org/collections/devsecops-super-bundle)[CKAD & 5 Courses]
 
 ## [UpTo 47% OFF] Linux Foundation Back to School & Skills Sale [Expired]
 Get up to 47% discount on all the linux foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
