@@ -6,6 +6,24 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
+## [UpTo 60% OFF] Linux Foundation Prime Deal (2 Days Only)
+
+Get flat 50% sitewide discount on Linux Foundation certifications, trainings, courses and all the bundles.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **OCTPRIME25CT** at [kube.promo/devops](https://kube.promo/devops)
+
+You can get more up to 60% discount on the following certification bundles using code **OCTPRIME25CT**
+
+- CKA + CKS Bundle ($477 Savings): [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle ($712 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)  
+- KCNA + KCSA + CKA + CKAD + CKS ($1685 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)  
+- KCNA + CKA ($372 Savings): [kube.promo/kcna-cka](https://kube.promo/kcna-cka)  
+- KCSA + CKS Exam Bundle ($372 Savings): [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)  
+- KCNA + KCSA Exam Bundle ($287 Savings): [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+- LFCA + KCNA Exam Bundle ($287 Savings): [kube.promo/lfca-kcna](https://training.linuxfoundation.org/training/linux-foundation-certified-it-associate-lfca-kubernetes-and-cloud-native-associate-kcna-exam-bundle/)
+
+
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -344,21 +362,6 @@ You can get up to 47% discount using the following bundles using code **SEPT25CT
 
 > [!NOTE]
 >Note: You have one year of validity to appear for the certification exam after registration
-
-## [UpTo 75% OFF] Linux Foundation Flash Sale (Expired)
-
-Get up to 75% discount at part of this exclusive Linux Foundation flash sale.
-
-> [!IMPORTANT]
->**Coupon:** Use code **SEPT25BUN50CT** with the the follwing bundles
-
-- CKA + CKS Bundle ($477 Savings): [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle ($712 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)  
-- KCNA + KCSA + CKA + CKAD + CKS ($1685 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)  
-- KCNA + CKA ($372 Savings): [kube.promo/kcna-cka](https://kube.promo/kcna-cka)  
-- KCSA + CKS Exam Bundle ($372 Savings): [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)  
-- KCNA + KCSA Exam Bundle ($287 Savings): [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-- LFCA + KCNA Exam Bundle ($287 Savings): [kube.promo/lfca-kcna](https://training.linuxfoundation.org/training/linux-foundation-certified-it-associate-lfca-kubernetes-and-cloud-native-associate-kcna-exam-bundle/)
 
 > [!IMPORTANT]
 >**Coupon:** Use coupon **SEPT25BUN50CT** to save 75% on the following super bundles.
