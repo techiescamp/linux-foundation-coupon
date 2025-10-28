@@ -8,7 +8,7 @@ Following are the Latest Linux Foundation Coupon Codes for Certification &amp; T
 
 ## [UpTo 47% OFF] Linux Foundation Haloween Sale (Two Days Only)
 
-As part of haloween sale, get up to 47% discount on all the linux foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
+As part of Haloween sale, get up to 47% discount on all the linux foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
 
 For individual certifications, get flat 40% using the following coupon.
 
