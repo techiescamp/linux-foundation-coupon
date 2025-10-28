@@ -13,9 +13,9 @@ As part of haloween sale, get up to 47% discount on all the linux foundation cer
 For individual certifications, get flat 40% using the following coupon.
 
 > [!IMPORTANT]
->**Coupon:** Use code **SPOOKY40** at [kube.promo/devops](https://kube.promo/devops)
+>**Coupon:** Use code **SPOOKY40CT** at [kube.promo/devops](https://kube.promo/devops)
 
-You can get up to 47% discount using the following bundles using code **SPOOKY40**
+You can get up to 47% discount using the following bundles using code **SPOOKY40CT**
 
 - CKA + CKAD ($370+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
