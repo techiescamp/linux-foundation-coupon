@@ -36,20 +36,6 @@ If you are looking for Kubestronaut program, Use code **DCUBE30** with the follo
 - If you have CKA, go for the [CKA to Kubestronaut Bundle](https://trainingportal.linuxfoundation.org/collections/cka-upgrade-to-kubestronaut-bundle)
 - If you have CKAD, go for the [CKAD to Kubestronaut Upgrade Bundle](https://trainingportal.linuxfoundation.org/collections/certified-kubernetes-application-developer-ckad-to-kubestronaut-upgrade-bundle)
 
-## 30% KubeCon + CloudNativeCon North America 2025
-
-KubeCon + CloudNativeCon North America is coming to Atlanta, November 10-1.
-
-All-Access Pass: This pass type includes entry to all 18 CNCF-hosted co-located events, and KubeCon + CloudNativeCon.
-
-KubeCon + CloudNativeCon Only Pass: This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will be granted to CNCF-hosted co-located events.
-
-> [!IMPORTANT]
->**Coupon:** Use code **COMTECHIES**
-
-> [!NOTE]
->Act Fast - code expires on August 26! 
-
 ## Golden Kubestronaut Bundle Coupon
 
 If you are a Kubestronaut, you can go for the Golden Kubestronaut  
@@ -405,3 +391,18 @@ You can get up to 47% discount using the following bundles using code **40KUBE25
 
 > [!NOTE]
 >Note: Offer ends soon. So lockin the price.
+
+## 30% KubeCon + CloudNativeCon North America 2025 [Expired]
+
+KubeCon + CloudNativeCon North America is coming to Atlanta, November 10-1.
+
+All-Access Pass: This pass type includes entry to all 18 CNCF-hosted co-located events, and KubeCon + CloudNativeCon.
+
+KubeCon + CloudNativeCon Only Pass: This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will be granted to CNCF-hosted co-located events.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES**
+
+> [!NOTE]
+>Act Fast - code expires on August 26! 
+
