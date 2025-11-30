@@ -18,12 +18,15 @@ You will get flat 50% off on individual courses, certifications, instructor led
 
 Use code **CW25BUNCT** to **save 60%** on the following bundles.
 
-- KCNA + KCSA + CKA + CKAD + CKS (65% - $1087 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle (63% - $747 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
 - CKA + CKS Bundle (63% - $500 Savings) [kube.promo/bundle](https://kube.promo/bundle)
 - KCNA + CKA (68% - $338 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 - KCSA + CKS Exam Bundle (64% - $407 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle (66% - $330 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+Use code **CW25K8BUNCT** Kubestronaut Bundle, Golden Kubestronaut Bundle, Kubestronaut to Golden Kube upgrade Bundle
+
+- KCNA + KCSA + CKA + CKAD + CKS (38% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
