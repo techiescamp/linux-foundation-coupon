@@ -16,7 +16,7 @@ You will get flat 50% off on individual courses, certifications, instructor led
 
 **Coupon:** Use code **CW25CT** at [kube.promo/devops](https://kube.promo/devops)
 
-Use code **CW25K8BUNCT** to **save 60%** on the following bundles.
+Use code **CW25BUNCT** to **save 60%** on the following bundles.
 
 - KCNA + KCSA + CKA + CKAD + CKS (65% - $1087 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle (63% - $747 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
