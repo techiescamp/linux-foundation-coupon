@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For November 2025)
+# Linux Foundation Coupons (Updated For December 2025)
 
 Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
@@ -16,7 +16,7 @@ You will get flat 50% off on individual courses, certifications, instructor led
 
 **Coupon:** Use code **CW25CT** at [kube.promo/devops](https://kube.promo/devops)
 
-Use code **CW25BUNCT** to **save 60%** on the following bundles.
+Use code **CW25BUNCT** to **save more than 60%** on the following bundles.
 
 - CKA + CKAD ($450+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle (63% - $500 Savings) [kube.promo/bundle](https://kube.promo/bundle)
