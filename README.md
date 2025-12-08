@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 65% OFF] Linux Foundation Cyber Monday Sale 2025 (Ending Soon)
+## [UpTo 65% OFF] Linux Foundation Cyber Monday Sale 2025 (Only One Day Left)
 
 The much awaited Linux Foundation  Cyber Monday sale is live now.
 
