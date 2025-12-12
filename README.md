@@ -14,6 +14,7 @@ The much awaited Linux Foundation  Cyber Monday sale is live now.
 
 You will get flat 50% off on individual courses, certifications, instructor led courses, and skillcreds usinf the following coupon.
 
+> [!IMPORTANT]
 **Coupon:** Use code **CW25CT** at [kube.promo/devops](https://kube.promo/devops)
 
 Use code **CW25BUNCT** to **save more than 60%** on the following bundles.
@@ -25,6 +26,7 @@ Use code **CW25BUNCT** to **save more than 60%** on the following bundles.
 - KCSA + CKS Exam Bundle (64% - $407 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle (66% - $330 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
+> [!IMPORTANT]
 Use code **CW25K8BUNCT** Kubestronaut Bundle, Golden Kubestronaut Bundle, Kubestronaut to Golden Kube upgrade Bundle
 
 - KCNA + KCSA + CKA + CKAD + CKS (38% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
