@@ -28,6 +28,14 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 > [!TIP]  
 > 💰 **Savings Tip:** If you haven't done any Kubernetes certification yet, the best savings are on the Kubestronaut Bundle with **38% + savings**
 
+## FinOps Certification Discount
+
+If you looking for Linux Foudnation FinOps certificatication, make use of the following coupon.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES12** at [learn.finops.org](https://learn.finops.org/)
+
+
 ## Kubestronaut Bundle Discounts
 
 If you are looking for Kubestronaut program, Use code **DCUBE30** with the following bundle options. 
