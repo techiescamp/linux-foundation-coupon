@@ -28,13 +28,22 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 > [!TIP]  
 > 💰 **Savings Tip:** If you haven't done any Kubernetes certification yet, the best savings are on the Kubestronaut Bundle with **38% + savings**
 
-## FinOps Certification Discount
+> [!NOTE]
+>Note: Offer ends soon. So lockin the price.
 
-If you looking for Linux Foudnation FinOps certificatication, make use of the following coupon.
+## 30% OFF Linux Foundation KubeCon Discount Codes
+
+KubeCon + CloudNativeCon North America Europe 2026 in Amsterda is coming up! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing.
 
 > [!IMPORTANT]
->**Coupon:** Use code **COMTECHIES12** at [learn.finops.org](https://learn.finops.org/)
+>**Coupon:** Use code **COMTECHIES** at [kube.promo/kubecon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
 
+All-Access Pass includes entry to all 16 CNCF-Hosted Co-Located Events, and KubeCon + CloudNativeCon. 
+
+> **Register Here:** [All Access Pass](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register)
+
+> [!NOTE]
+>Note: This code expires on Feb 4, 2026 at 23:59 CET
 
 ## Kubestronaut Bundle Discounts
 
@@ -202,30 +211,6 @@ This September, Linux Foundation promo is focused on sharpening your skillset fo
 Save up to 47% on CKA, CKAD and other Linux foundation certifications, e-Learning and other programs. This is a two days only limited time sale.
 
 For individual certifications, save flat 40%.
-
-## Linux Foundation KubeCon Discount Codes [Expired]
-
-> We will update the new coupons for next Kubecon.
-
-KubeCon + CloudNativeCon North America 2024 in Salt Lake City is coming up quickly! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing.
-
-### All-Access Pass: 
-
-This pass type includes entry to all 16 CNCF-Hosted Co-Located Events, and KubeCon + CloudNativeCon. 
-
-**Individual**: $899  Use code COMTECHIES_AAI
-
-**Corporate**: $1,549 Use code COMTECHIES_AAC
-
-### KubeCon + CloudNativeCon Only Pass:
-
-This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will be granted to CNCF-hosted co-located events.
-
-**Individual**: $600 Use code COMTECHIES_I
-
-**Corporate**: $1,250 Use code COMTECHIES_C
-
-> **Register Here:** [Kubecon NA Registration](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
 
 ## [UpTo 47% OFF] Linux Foundation Lunar New Year Sale [Expired]
 
@@ -433,3 +418,9 @@ You can get up to 47% discount using the following bundles using code **HOLIDAY2
 > [!NOTE]
 >Note: Offer ends soon. So lockin the price.
 
+## FinOps Certification Discount [Expired]
+
+If you looking for Linux Foudnation FinOps certificatication, make use of the following coupon.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES12** at [learn.finops.org](https://learn.finops.org/)
