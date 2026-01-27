@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 40% OFF] Linux Foundation Sitewide Skillmix Sale
+## [UpTo 40% OFF] Linux Foundation Sitewide Skillmix Sale (Only 2 Days Left)
 
 As part of the exclusive sitewide sale, get a flat 35% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut. You could save more than 40% on bundles.
 
