@@ -6,16 +6,16 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 40% OFF] Linux Foundation Sitewide Skillmix Sale (Only 2 Days Left)
+## [UpTo 55% OFF] Linux Foundation Flash Sale (2 Days Only)
 
-As part of the exclusive sitewide sale, get a flat 35% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut. You could save more than 40% on bundles.
+As part of the exclusive sitewide flash sale, get a flat 50% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut. You could save more than 40% on bundles.
 
 > [!IMPORTANT]
->**Coupon:** Use code **SKILLSMIX26CT** at [kube.promo/devops](https://kube.promo/devops)
+>**Coupon:** Use code **JAN50CT** at [kube.promo/devops](https://kube.promo/devops)
 
-You can get up to 40% discount using the following bundles.
+You can get up to 55% discount using the following bundles.
 
-The following are the best bundles to **save 38% ($600+ savings)** with code **DCUBE30**
+The following are the best bundles to **save uptp 55%** with code **JAN50CT**
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
@@ -26,7 +26,7 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 - KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 > [!NOTE]
->Note: Offer ends on January 27, 2026. So lockin the price before it expires.
+>Note: Offer ends on January 30, 2026. So lockin the price before it expires.
 
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
