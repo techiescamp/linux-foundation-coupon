@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 55% OFF] Linux Foundation Flash Sale (2 Days Only)
+## [UpTo 55% OFF] Linux Foundation Flash Sale (Ending Today)
 
 As part of the exclusive sitewide flash sale, get a flat 50% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut. You could save more than 40% on bundles.
 
