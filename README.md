@@ -27,14 +27,23 @@ Using code **LUNAR26K8CT** You can get up to 48% discount using the following Ku
 - KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
-Using code **LUNAR26ILTCT** you can get flat 40% off Instructor-Led Courses.
-
-You can get 75% off super bundles with code **LUNAR26SBCT**
-
-Get 50% off bundles (excluding Kubernetes) with code **LUNAR26BUNCT**
-
 >Note: You have one year of validity to appear for the certification exam after registration
 
+Lookig for instructor-Led Courses?
+
+> [!IMPORTANT]
+>**Coupon:** Use coupon **LUNAR26ILTCT** to get flat 40% off Instructor-Led Courses.
+
+Here is how you can save 75% using super bundles.
+
+> [!IMPORTANT]
+>**Coupon:** Use coupon **SEPT25BUN50CT** to save 75% on the following super bundles.
+
+- [Cloud Native Super Bundle](https://trainingportal.linuxfoundation.org/collections/cloud-native-containers-package) [CKA Certification & 6 Courses]
+- [Cybersecurity Super Bundle](https://trainingportal.linuxfoundation.org/collections/cybersecurity-bundle)[CKA, CKS & LFCS certification & 6 courses]
+- [Cloud Native Developer Super Bundle](https://trainingportal.linuxfoundation.org/collections/devsecops-super-bundle)[CKAD & 5 Courses]
+
+Get 50% off bundles (excluding Kubernetes) with code **LUNAR26BUNCT**
 
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
