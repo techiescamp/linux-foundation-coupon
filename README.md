@@ -15,7 +15,7 @@ For individual certifications (CKA, CKAD, CKS, or KCNA etc), you get flat 35% di
 > [!IMPORTANT]
 >**Coupon:** Use code **LUNAR26CT** at [kube.promo/devops](https://kube.promo/devops)
 
-Using code **DCUBE30** You can get up to 38% discount using the following Kuernetes bundles.
+Using code **LUNAR26BUNCT** You can get up to 38% discount using the following Kuernetes bundles.
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
