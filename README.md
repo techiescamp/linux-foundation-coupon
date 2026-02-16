@@ -6,6 +6,36 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
+## [75% OFF] Linux Foundation Lunar New Year Sale.
+
+As part of the Lunar New Year, get upto 75% discount on e-learning Courses, Certifications, SkillCreds & IT Professional Programs.
+
+- 🚀  CKA, CKAD, CKS, or KCNA exam aspirants can **save 40%** today using code **LUNAR24COM** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
+
+For individual certifications, you get flat 35% discount using the following coupon.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **LUNAR26CT** at [kube.promo/devops](https://kube.promo/devops)
+
+Using code **LUNAR26K8CT** You can get up to 48% discount using the following Kuernetes bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+Using code **LUNAR26ILTCT** you can get flat 40% off Instructor-Led Courses.
+
+You can get 75% off super bundles with code **LUNAR26SBCT**
+
+Get 50% off bundles (excluding Kubernetes) with code **LUNAR26BUNCT**
+
+>Note: You have one year of validity to appear for the certification exam after registration
+
+
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -128,14 +158,6 @@ As part of a two-day flash sale, The Linux Foundation is offering a flat 35% dis
 **Redeem here:** [kube.promo/devops](https://kube.promo/devops)
 
 **Coupon Code:** AWARD35 
-
-## [40% OFF] Linux Foundation Lunar New Year Sale [Expired]
-
-As part of the Lunar New Year, get a flat 40% discount on e-learning Courses, Certifications, SkillCreds & IT Professional Programs.
-
-- 🚀  CKA, CKAD, CKS, or KCNA exam aspirants can **save 40%** today using code **LUNAR24COM** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
-
->Note: You have one year of validity to appear for the certification exam after registration
 
 ## [50% OFF] Linux Foundation Leap into Learnings Sale [Expired]
 
