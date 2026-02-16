@@ -15,7 +15,7 @@ For individual certifications (CKA, CKAD, CKS, or KCNA etc), you get flat 35% di
 > [!IMPORTANT]
 >**Coupon:** Use code **LUNAR26CT** at [kube.promo/devops](https://kube.promo/devops)
 
-Using code **LUNAR26K8CT** You can get up to 48% discount using the following Kuernetes bundles.
+Using code **DCUBE30** You can get up to 38% discount using the following Kuernetes bundles.
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
@@ -35,7 +35,7 @@ Lookig for instructor-Led Courses?
 Here is how you can save 75% using super bundles.
 
 > [!IMPORTANT]
->**Coupon:** Use coupon **SEPT25BUN50CT** to save 75% on the following super bundles.
+>**Coupon:** Use coupon **LUNAR26SBCT** to save 75% on the following super bundles.
 
 - [Cloud Native Super Bundle](https://trainingportal.linuxfoundation.org/collections/cloud-native-containers-package) [CKA Certification & 6 Courses]
 - [Cybersecurity Super Bundle](https://trainingportal.linuxfoundation.org/collections/cybersecurity-bundle)[CKA, CKS & LFCS certification & 6 courses]
