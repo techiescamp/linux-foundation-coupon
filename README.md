@@ -27,6 +27,11 @@ Using code **LUNAR26BUNCT** You can get up to 38% discount using the following K
 
 >Note: You have one year of validity to appear for the certification exam after registration
 
+Get 40% off Kuberstraunaut bundle (KCNA + KCSA + CKA + CKAD + CKS)
+
+> [!IMPORTANT]
+>**Coupon:** Use coupon **LUNAR26K8CT** at [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+
 Lookig for instructor-Led Courses?
 
 > [!IMPORTANT]
@@ -42,6 +47,21 @@ Here is how you can save 75% using super bundles.
 - [Cloud Native Developer Super Bundle](https://trainingportal.linuxfoundation.org/collections/devsecops-super-bundle)[CKAD & 5 Courses]
 
 Get 50% off bundles (excluding Kubernetes) with code **LUNAR26BUNCT**
+
+## 20% OFF Linux Foundation KubeCon Discount Codes (Ends in Two Days)
+
+KubeCon + CloudNativeCon North America Europe 2026 in Amsterda is coming up! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES20** at [kube.promo/kubecon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+
+All-Access Pass includes entry to all 16 CNCF-Hosted Co-Located Events, and KubeCon + CloudNativeCon. 
+
+> **Register Here:** [All Access Pass](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register)
+
+> [!NOTE]
+>Note: This code expires soon
+
 
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
@@ -67,20 +87,6 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 
 > [!NOTE]
 >Note: Offer ends soon. So lockin the price.
-
-## 30% OFF Linux Foundation KubeCon Discount Codes (Ends in Two Days)
-
-KubeCon + CloudNativeCon North America Europe 2026 in Amsterda is coming up! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing.
-
-> [!IMPORTANT]
->**Coupon:** Use code **COMTECHIES** at [kube.promo/kubecon](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-
-All-Access Pass includes entry to all 16 CNCF-Hosted Co-Located Events, and KubeCon + CloudNativeCon. 
-
-> **Register Here:** [All Access Pass](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register)
-
-> [!NOTE]
->Note: This code expires on Feb 4, 2026 at 23:59 CET
 
 ## Kubestronaut Bundle Discounts
 
