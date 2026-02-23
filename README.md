@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [75% OFF] Linux Foundation Lunar New Year Sale (One Day Left)
+## [75% OFF] Linux Foundation Lunar New Year Sale (Ending Today)
 
 As part of the Lunar New Year, get upto 75% discount on e-learning Courses, Certifications, SkillCreds & IT Professional Programs.
 
