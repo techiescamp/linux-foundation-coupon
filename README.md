@@ -6,6 +6,27 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
+## [40% OFF] Linux Foundation Women's Day Sale (Limited Sale)
+
+Get up to 40% discount on Linux Foundation certifications using the latest womens day sale.
+
+For individual certifications (CKA, CKAD, CKS, or KCNA etc), you get flat 35% discount using the following coupon.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **IWD26CT** at [kube.promo/devops](https://kube.promo/devops)
+
+You can get up to 40% discount using the same coupon on the following Kuernetes bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS (38% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+>Note: You have one year of validity to appear for the certification exam after registration
+
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -143,12 +164,6 @@ As part of an exclusive Linux Foundation leaps into learning sale, get a flat 50
 >Note: You have one year of validity to appear for the certification exam after registration
 
 **Restrictions:** This promotion is available to anyone who purchases the above-mentioned products with an applicable coupon between February 20, 2024, and February 29, 2024, 23:59 UTC. It is not valid for any other combination of courses or certifications. The promotional price is limited to individual purchases ONLY. The offer is not valid with any other discount combinations. The offer does not include THRIVE-ONE subscriptions or any FinOps courses or certifications.
-
-## [30% OFF] Linux Foundation Women's Day Sale (Expired)
-
-Get up to $416 discount on Linux Foundation certifications using the latest womens day sale.
-
-Use coupon code **IWD24** at https://kube.promo/devops
 
 ## 40% OFF Pot of Career Gold Linux Foundation Sale [Expired]
 
@@ -438,6 +453,7 @@ The following are the best bundles to **save uptp 55%** with code **JAN50CT**
 - KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 - KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
 ## [75% OFF] Linux Foundation Lunar New Year Sale (Expired)
 
 As part of the Lunar New Year, get upto 75% discount on e-learning Courses, Certifications, SkillCreds & IT Professional Programs.
