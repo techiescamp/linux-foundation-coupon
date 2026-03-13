@@ -6,16 +6,17 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [40% OFF] Linux Foundation Women's Day Sale (Limited Sale)
 
-Get up to 40% discount on Linux Foundation certifications using the latest womens day sale.
+## [48% OFF] Linux Foundation Formula for Opportunity Sale (4 Days Only)
+
+Get up to 48% discount on Linux Foundation certifications using the Formula for Opportunity Sale,
 
 For individual certifications (CKA, CKAD, CKS, or KCNA etc), you get flat 35% discount using the following coupon.
 
 > [!IMPORTANT]
->**Coupon:** Use code **IWD26CT** at [kube.promo/devops](https://kube.promo/devops)
+>**Coupon:** Use code **PI26BUNCT** at [kube.promo/devops](https://kube.promo/devops)
 
-You can get up to 40% discount using the same coupon on the following Kuernetes bundles.
+You can get up to 48% discount using coupon **PI26BUNSC** on the following Kuernetes bundles.
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
