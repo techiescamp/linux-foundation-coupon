@@ -14,9 +14,9 @@ Get up to 48% discount on Linux Foundation certifications using the Formula for 
 For individual certifications (CKA, CKAD, CKS, or KCNA etc), you get flat 35% discount using the following coupon.
 
 > [!IMPORTANT]
->**Coupon:** Use code **PI26BUNCT** at [kube.promo/devops](https://kube.promo/devops)
+>**Coupon:** Use code **PI26CT** at [kube.promo/devops](https://kube.promo/devops)
 
-You can get up to 48% discount using coupon **PI26BUNSC** on the following Kuernetes bundles.
+You can get up to 48% discount using coupon **PI26BUNCT** on the following Kuernetes bundles.
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
