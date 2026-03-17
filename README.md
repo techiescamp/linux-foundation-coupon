@@ -7,7 +7,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
 
-## [48% OFF] Linux Foundation Formula for Opportunity Sale (4 Days Only)
+## [48% OFF] Linux Foundation Formula for Opportunity Sale (Ending Today)
 
 Get up to 48% discount on Linux Foundation certifications using the Formula for Opportunity Sale,
 
