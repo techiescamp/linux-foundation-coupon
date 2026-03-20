@@ -7,21 +7,21 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
 
-## [48% OFF] Linux Foundation Formula for Opportunity Sale (Ending Today)
+## [55% OFF] Linux Foundation Kubecon Sale (Limited Offer)
 
-Get up to 48% discount on Linux Foundation certifications using the Formula for Opportunity Sale,
+Get up to 55% discount on Linux Foundation certifications using the Foundation Kubecon Sale.
 
-For individual certifications (CKA, CKAD, CKS, or KCNA etc), you get flat 35% discount using the following coupon.
+For individual certifications (CKA, CKAD, CKS, or KCNA etc), you get flat 30% discount using the following coupon.
 
 > [!IMPORTANT]
->**Coupon:** Use code **PI26CT** at [kube.promo/devops](https://kube.promo/devops)
+>**Coupon:** Use code **DCUBE30** at [kube.promo/devops](https://kube.promo/devops)
 
-You can get up to 48% discount using coupon **PI26BUNCT** on the following Kuernetes bundles.
+You can get up to 55% discount using coupon **R2KUBECT** on the following Kuernetes bundles.
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
 - CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + KCSA + CKA + CKAD + CKS (48% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 - KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
