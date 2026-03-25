@@ -7,27 +7,6 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
 
-## [55% OFF] Linux Foundation Kubecon Sale (Ends in Few Hours)
-
-Get up to 55% discount on Linux Foundation certifications using the Foundation Kubecon Sale.
-
-For individual certifications (CKA, CKAD, CKS, or KCNA etc), you get flat 30% discount using the following coupon.
-
-> [!IMPORTANT]
->**Coupon:** Use code **DCUBE30** at [kube.promo/devops](https://kube.promo/devops)
-
-You can get up to 55% discount using coupon **R2KUBECT** on the following Kuernetes bundles.
-
-- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
->Note: You have one year of validity to appear for the certification exam after registration
-
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -495,4 +474,19 @@ Here is how you can save 75% using super bundles.
 - [Cloud Native Developer Super Bundle](https://trainingportal.linuxfoundation.org/collections/devsecops-super-bundle)[CKAD & 5 Courses]
 
 Get 50% off bundles (excluding Kubernetes) with code **LUNAR26BUNCT**
+## [55% OFF] Linux Foundation Kubecon Sale (Expired)
+
+Get up to 55% discount on Linux Foundation certifications using the Foundation Kubecon Sale.
+
+You can get up to 55% discount using coupon **R2KUBECT** on the following Kuernetes bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+>Note: You have one year of validity to appear for the certification exam after registration
 
