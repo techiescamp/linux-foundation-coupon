@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For March 2026)
+# Linux Foundation Coupons (Updated For April 2026)
 
 Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
@@ -6,6 +6,25 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
+## [Up to 40% OFF] Linux Foundation 2 Days Joker Sale (2 Days Only)
+
+As part of the April fool Sale, get a flat 35% discount on all the Kubernetes certifications and bundles.
+
+> [!IMPORTANT]
+> **Coupon:** Use code **JOKER26** at [kube.promo/devops](https://kube.promo/devops) to get flat 30% discount.
+
+You can get up to 40% discount using the following bundles using code **JOKER26**
+
+- CKA + CKAD ($370+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + KCSA + CKA + CKAD + CKS (47% - $858 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS Exam bundle (47% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+> [!NOTE]
+>Note: Offer ends soon. So lockin the price.
 
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
@@ -31,8 +50,6 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 
 > [!NOTE]
 >Note: Offer ends soon. So lockin the price.
-
-
 
 ## 20% OFF Linux Foundation KubeCon Discount Codes (Ends in Two Days)
 
@@ -227,14 +244,6 @@ If you bundle Your Certs with THRIVE Annual Subscription you can get 40% off cer
 
 >Note: This offer only valid forfew days. So hurry up and make use of this offer before it expires.
 
-## [Up to 40% OFF] Linux Foundation April Sale (Expired)
-
-As part of the Kubecon Sale, get a flat 40% discount on all the Kubernetes certifications and bundles.
-
-> [!IMPORTANT]
-> **Coupon:** Use code **APRIL25CT** at [kube.promo/devops](https://kube.promo/devops) to get flat 30% discount.
-
-
 ## [UpTo 55% OFF] Linux Foundation Sysadmin Sale [Expired]
 
 Get upto 55% discount on Linux Foundation certifications as part of the latest Sysadmin sale.
@@ -394,19 +403,6 @@ For individual certifications, get flat 40% using the following coupon.
 
 > [!IMPORTANT]
 >**Coupon:** Use code **HOLIDAY25CT** at [kube.promo/devops](https://kube.promo/devops)
-
-You can get up to 47% discount using the following bundles using code **HOLIDAY25CT**
-
-- CKA + CKAD ($370+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + KCSA + CKA + CKAD + CKS (47% - $858 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle (47% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> [!NOTE]
->Note: Offer ends soon. So lockin the price.
 
 ## FinOps Certification Discount [Expired]
 
