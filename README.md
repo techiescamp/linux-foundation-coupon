@@ -23,6 +23,11 @@ You can get up to 40% discount using the following bundles using code **35KUBECT
 - KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
+For all the other certifications and bundles, use the following coupon to get flat 30% discount.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **DCUBE30**
+
 > [!NOTE]
 >Note: Offer ends soon. So lockin the price.
 
