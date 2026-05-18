@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 65% OFF] Linux Foundation Mega Cyber Boost Sale (Limited Time Offer)
+## [UpTo 65% OFF] Linux Foundation Mega Cyber Boost Sale (Ends in Two Days)
 
 You will get flat 50% off on individual, certifications like CKA, CKAD, CKS using the following coupon.
 
