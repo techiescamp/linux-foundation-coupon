@@ -36,6 +36,25 @@ If you bundle Your Certs with THRIVE Annual Subscription you can get 65% off cer
 > [!NOTE]
 >Note: You Won't see this offer again until Cyber offer in November. So locking this huge discount before May 20th. Dont miss out.
 
+## 30% KubeCon + CloudNativeCon India 2026 Discount Coupon
+
+KubeCon + CloudNativeCon North America is coming to India, Mumbai from 18 to 19 June!
+
+Corporate Pass: 30%+ Off Current Pricing
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES _199**
+Corporate Registration type is for registrants whose company is paying for attendance to KubeCon + CloudNativeCon.
+
+Individual Pass: 14% Off Current Pricing
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES _85**
+
+Individual Registration type is for registrants who are currently not working for a company, work for a non-profit, or are attending at their own expense (i.e. not funded by a company)
+
+> [!NOTE]
+>Act Fast - code expires on August 26!
+
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
