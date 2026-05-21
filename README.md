@@ -34,7 +34,7 @@ If you bundle Your Certs with THRIVE Annual Subscription you can get 65% off cer
 - 8+ SkillCreds
 
 > [!NOTE]
->Note: You Won't see this offer again until Cyber offer in November. So locking this huge discount before May 20th. Dont miss out.
+>Note: You Won't see this offer again until Cyber offer in November. So locking this huge discount before May 24th. Dont miss out.
 
 ## 30% KubeCon + CloudNativeCon India 2026 Discount Coupon
 
