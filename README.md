@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 65% OFF] Linux Foundation Mega Cyber Boost Sale (Last 2 Days)
+## [UpTo 65% OFF] Linux Foundation Mega Cyber Boost Sale (Ends in Few Hours)
 
 You will get flat 50% off on individual, certifications like CKA, CKAD, CKS using the following coupon.
 
@@ -34,7 +34,7 @@ If you bundle Your Certs with THRIVE Annual Subscription you can get 65% off cer
 - 8+ SkillCreds
 
 > [!NOTE]
->Note: You Won't see this offer again until Cyber offer in November. Due to Popular Demand, Offer Extended for 2 More Days. Dont miss out.
+>Note: You Won't see this offer again until Cyber offer in November. Due to Popular Demand, Offer Extended till may 24th. Dont miss out.
 
 ## 30% KubeCon + CloudNativeCon India 2026 Discount Coupon
 
