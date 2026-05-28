@@ -6,55 +6,6 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 65% OFF] Linux Foundation Mega Cyber Boost Sale (Ends in Few Hours)
-
-You will get flat 50% off on individual, certifications like CKA, CKAD, CKS using the following coupon.
-
-> [!IMPORTANT]
-**Coupon:** Use code **MM26CCCT** at [kube.promo/devops](https://kube.promo/devops)
-
-Use code **MM26BUNCT** to **save up to 60%** on the following Kubernetes certification bundles.
-
-- CKA + CKAD ($450+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle (63% - $500 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle (63% - $747 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + CKA (68% - $338 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle (64% - $407 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle (66% - $330 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> [!IMPORTANT]
-Use code **MM26K8BUNCT** Kubestronaut Bundle, Golden Kubestronaut Bundle, Kubestronaut to Golden Kube upgrade Bundle
-
-- KCNA + KCSA + CKA + CKAD + CKS (50% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-
-If you bundle Your Certs with THRIVE Annual Subscription you can get 65% off certifications along with,
-
-- 100+ educational products
-- 45+ e-learning courses with hand-on labs
-- 8+ SkillCreds
-
-> [!NOTE]
->Note: You Won't see this offer again until Cyber offer in November. Due to Popular Demand, Offer Extended till may 24th. Dont miss out.
-
-## 30% KubeCon + CloudNativeCon India 2026 Discount Coupon
-
-KubeCon + CloudNativeCon North America is coming to India, Mumbai from 18 to 19 June!
-
-Corporate Pass: 30%+ Off Current Pricing
-> [!IMPORTANT]
->**Coupon:** Use code **COMTECHIES _199**
-Corporate Registration type is for registrants whose company is paying for attendance to KubeCon + CloudNativeCon.
-
-Individual Pass: 14% Off Current Pricing
-
-> [!IMPORTANT]
->**Coupon:** Use code **COMTECHIES _85**
-
-Individual Registration type is for registrants who are currently not working for a company, work for a non-profit, or are attending at their own expense (i.e. not funded by a company)
-
-> [!NOTE]
->Act Fast - code expires on August 26!
-
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -79,6 +30,25 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 
 > [!NOTE]
 >Note: Offer ends soon. So lockin the price.
+
+## 30% KubeCon + CloudNativeCon India 2026 Discount Coupon
+
+KubeCon + CloudNativeCon North America is coming to India, Mumbai from 18 to 19 June!
+
+Corporate Pass: 30%+ Off Current Pricing
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES _199**
+Corporate Registration type is for registrants whose company is paying for attendance to KubeCon + CloudNativeCon.
+
+Individual Pass: 14% Off Current Pricing
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES _85**
+
+Individual Registration type is for registrants who are currently not working for a company, work for a non-profit, or are attending at their own expense (i.e. not funded by a company)
+
+> [!NOTE]
+>Act Fast - code expires on August 26!
 
 ## [40% OFF] Kubestronaut Bundle Discounts
 
@@ -514,5 +484,34 @@ To **save up to 45%** on certifications, use code **FOURTH26CT** with the follow
 > [!NOTE]
 >Note: Offer may offer ends soon. So lockin the price.
 
+## [UpTo 65% OFF] Linux Foundation Mega Cyber Boost Sale (Expired)
+
+You will get flat 50% off on individual, certifications like CKA, CKAD, CKS using the following coupon.
+
+> [!IMPORTANT]
+**Coupon:** Use code **MM26CCCT** at [kube.promo/devops](https://kube.promo/devops)
+
+Use code **MM26BUNCT** to **save up to 60%** on the following Kubernetes certification bundles.
+
+- CKA + CKAD ($450+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle (63% - $500 Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle (63% - $747 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + CKA (68% - $338 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle (64% - $407 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle (66% - $330 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+> [!IMPORTANT]
+Use code **MM26K8BUNCT** Kubestronaut Bundle, Golden Kubestronaut Bundle, Kubestronaut to Golden Kube upgrade Bundle
+
+- KCNA + KCSA + CKA + CKAD + CKS (50% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+
+If you bundle Your Certs with THRIVE Annual Subscription you can get 65% off certifications along with,
+
+- 100+ educational products
+- 45+ e-learning courses with hand-on labs
+- 8+ SkillCreds
+
+> [!NOTE]
+>Note: You Won't see this offer again until Cyber offer in November. Due to Popular Demand, Offer Extended till may 24th. Dont miss out.
 
 
