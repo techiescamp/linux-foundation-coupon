@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For May 2026)
+# Linux Foundation Coupons (Updated For June 2026)
 
 Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
@@ -160,7 +160,9 @@ Bundles come with **extra discounts** on top of 30% using the same coupon.
 
 Use code **EARTHDAY24ILT** for instructor-led courses.
 
-## Kubernetes Birthday Sale (2 Days only) [Expired]
+## Kubernetes Birthday Sale 2026 (2 Days only) 
+
+The k8s Birthday Sale will be live on June 2, 2026. Only one day left for the sale to start.
 
 As part of the Kubernetes 10th birthday sale, get a flat 40% off all certifications, skills, IT professional programs, and training programs only for the next two days.
 
