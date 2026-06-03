@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 45% OFF] Linux Foundation Kubernetes Birthday Sale 2026 (3 Days only) 
+## [UpTo 45% OFF] Linux Foundation Kubernetes Birthday Sale 2026 (Expires in Two Days) 
 
 The k8s Birthday Sale is live now. As part of the Kubernetes 10th birthday sale, get a flat 35% off all certifications, skills, IT professional programs, and training programs only for the next two days.
 
