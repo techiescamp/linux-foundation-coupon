@@ -6,27 +6,6 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 45% OFF] Linux Foundation Kubernetes Birthday Sale 2026 (Ends in Few Hours) 
-
-The k8s Birthday Sale is live now. As part of the Kubernetes 10th birthday sale, get a flat 35% off all certifications, skills, IT professional programs, and training programs only for the next two days.
-
-> [!IMPORTANT]
->**Coupon:** Use code **HBDK826CCCT** at [kube.promo/devops](https://kube.promo/devops)
-
-Using code **HBDK826CT** You can get up to 45% discount off the following Bundles and Instructor-Led Training (ILT).
-
-- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> [!NOTE]
->Note: This is a 3 days falsh sale. So lockin the price before June 5th.
-
-
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -516,4 +495,22 @@ If you bundle Your Certs with THRIVE Annual Subscription you can get 65% off cer
 > [!NOTE]
 >Note: You Won't see this offer again until Cyber offer in November. Due to Popular Demand, Offer Extended till may 24th. Dont miss out.
 
+## [UpTo 45% OFF] Linux Foundation Kubernetes Birthday Sale 2026 (Expired) 
 
+The k8s Birthday Sale is live now. As part of the Kubernetes 10th birthday sale, get a flat 35% off all certifications, skills, IT professional programs, and training programs only for the next two days.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **HBDK826CCCT** at [kube.promo/devops](https://kube.promo/devops)
+
+Using code **HBDK826CT** You can get up to 45% discount off the following Bundles and Instructor-Led Training (ILT).
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+> [!NOTE]
+>Note: This is a 3 days falsh sale. So lockin the price before June 5th.
