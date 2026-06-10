@@ -6,6 +6,29 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
+## [UpTo 45% OFF] Linux Foundation Tech Talent Sale 2026 (2 Days Only) 
+
+As part of the Linux Foundation 2026 tech talent report sale, you can get a flat 40% off all certifications, skills, IT professional programs, and training programs only for the next two days.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **TECHTALENT26CT** at [kube.promo/devops](https://kube.promo/devops)
+
+Using code **TECHTALENT26CT** You can get up to 45% discount off the following Bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+You can download the 2026 tech talent report from here [2026 Tech Talent Report](https://training.linuxfoundation.org/2026-state-of-tech-talent-report/)
+
+> [!NOTE]
+>Note: This is a 2 days falsh sale. So lockin the price before June 5th.
+
+
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
