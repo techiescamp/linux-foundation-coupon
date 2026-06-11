@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 45% OFF] Linux Foundation Tech Talent Sale 2026 (2 Days Only) 
+## [UpTo 45% OFF] Linux Foundation Tech Talent Sale 2026 (Expires in Few Hours) 
 
 As part of the Linux Foundation 2026 tech talent report sale, you can get a flat 40% off all certifications, skills, IT professional programs, and training programs only for the next two days.
 
