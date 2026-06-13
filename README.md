@@ -26,8 +26,7 @@ Using code **TECHTALENT26CT** You can get up to 45% discount off the following B
 You can download the 2026 tech talent report from here [2026 Tech Talent Report](https://training.linuxfoundation.org/2026-state-of-tech-talent-report/)
 
 > [!NOTE]
->Note: This is a 2 days falsh sale. So lockin the price before June 5th.
-
+>Note: This is a 2 days falsh sale. So lockin the price soon!
 
 ## [UpTo 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
