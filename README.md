@@ -13,6 +13,16 @@ Get flat 40% sitewide discount on individual Linux Foundation certifications, tr
 > [!IMPORTANT]
 >**Coupon:** Use code **JPRIME26CCCT** at [kube.promo/devops](https://kube.promo/devops)
 
+Using code **JPRIME26BCT** You can get up to 55% discount off the following Kubernetes certification bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
 You can get 75% discount on the following super bundles using code **JPRIME26SBCT**
 
 - [Cloud Native Super Bundle](https://trainingportal.linuxfoundation.org/collections/cloud-native-containers-package) [CKA Certification & 6 Courses]
@@ -496,16 +506,6 @@ The k8s Birthday Sale is live now. As part of the Kubernetes 10th birthday sale,
 
 > [!IMPORTANT]
 >**Coupon:** Use code **HBDK826CCCT** at [kube.promo/devops](https://kube.promo/devops)
-
-Using code **HBDK826CT** You can get up to 45% discount off the following Bundles and Instructor-Led Training (ILT).
-
-- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle  [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 > [!NOTE]
 >Note: This is a 3 days falsh sale. So lockin the price before June 5th.
