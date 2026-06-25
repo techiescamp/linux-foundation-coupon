@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 Following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [UpTo 75% OFF] Linux Foundation Prime Deal 2026 is Live (Ends in Two Days)
+## [UpTo 75% OFF] Linux Foundation Prime Deal 2026 is Live (One Day Left)
 
 Get flat 40% sitewide discount on individual Linux Foundation certifications, trainings, courses.
 
