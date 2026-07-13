@@ -8,14 +8,14 @@ Following are the Latest Linux Foundation Coupon Codes for Certification &amp; T
 
 ## [45% OFF] Linux Foundation The Second Half July Sale
 
-Get up to 45% off on Certifications and bundles using the exclusive flash sale.
+Get up to 45% off on Certifications and bundles using the exclusive second half sale.
 
 For individual certifications, get a flat 35% discount using the following code.
 
 > [!IMPORTANT]
 >**Coupon:** Use code **JULY26CCCT** at [kube.promo/devops](https://kube.promo/devops)
 
-Use code code **JULY26BUNCT** to get upto 45% discount on the following certification bundles.
+Use code code **JULY26BUNCT** to get upto 45% discount on the following certification bundles as compared to the individual prices.
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
