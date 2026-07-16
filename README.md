@@ -53,25 +53,6 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 > [!NOTE]
 >Note: Offer ends soon. So lockin the price.
 
-## 30% KubeCon + CloudNativeCon India 2026 Discount Coupon
-
-KubeCon + CloudNativeCon North America is coming to India, Mumbai from 18 to 19 June!
-
-Corporate Pass: 30%+ Off Current Pricing
-> [!IMPORTANT]
->**Coupon:** Use code **COMTECHIES _199**
-Corporate Registration type is for registrants whose company is paying for attendance to KubeCon + CloudNativeCon.
-
-Individual Pass: 14% Off Current Pricing
-
-> [!IMPORTANT]
->**Coupon:** Use code **COMTECHIES _85**
-
-Individual Registration type is for registrants who are currently not working for a company, work for a non-profit, or are attending at their own expense (i.e. not funded by a company)
-
-> [!NOTE]
->Act Fast - code expires on August 26!
-
 ## [40% OFF] Kubestronaut Bundle Discounts
 
 If you are looking for Kubestronaut program, Use code **DCUBE30** with the following bundle options. 
@@ -517,4 +498,22 @@ Get 20% off on THRIVE-Annual using code **JPRIME26TOCT**
 
 > [!NOTE]
 >Note: Offer ends soon. So lockin the price.
+## 30% KubeCon + CloudNativeCon India 2026 Discount Coupon [Expired]
+
+KubeCon + CloudNativeCon North America is coming to India, Mumbai from 18 to 19 June!
+
+Corporate Pass: 30%+ Off Current Pricing
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES _199**
+Corporate Registration type is for registrants whose company is paying for attendance to KubeCon + CloudNativeCon.
+
+Individual Pass: 14% Off Current Pricing
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES _85**
+
+Individual Registration type is for registrants who are currently not working for a company, work for a non-profit, or are attending at their own expense (i.e. not funded by a company)
+
+> [!NOTE]
+>Act Fast - code expires on August 26!
 
