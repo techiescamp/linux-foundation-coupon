@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 The following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [45% OFF] Linux Foundation The Second Half July Sale (Only 24 Hrs left)
+## [45% OFF] Linux Foundation The Second Half July Sale (Ends in Few Hours)
 
 Get up to 45% off on Certifications and bundles using the exclusive second half sale.
 
