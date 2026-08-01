@@ -1,4 +1,4 @@
-# Linux Foundation Coupons (Updated For July 2026)
+# Linux Foundation Coupons (Updated For August 2026)
 
 Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
@@ -6,16 +6,16 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 The following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [45% OFF] Linux Foundation The Second Half July Sale (Ends in Few Hours)
+## [48% OFF] Linux Foundation Exclusive Summer Sale (Ends in Few Days)
 
-Get up to 45% off on Certifications and bundles using the exclusive second half sale.
+Get up to 48% off on Certifications and bundles using the exclusive community summer sale.
 
-For individual certifications, get a flat 35% discount using the following code.
+For individual certifications, get a flat 40% discount using the following code.
 
 > [!IMPORTANT]
->**Coupon:** Use code **JULY26CCCT** at [kube.promo/devops](https://kube.promo/devops)
+>**Coupon:** Use code **SUMMER26CT** at [kube.promo/devops](https://kube.promo/devops)
 
-Use code **JULY26BUNCT** to get up to 45% off the following certification bundles compared to the individual prices.
+Use same code **SUMMER26CT** to get up to 48% off the following certification bundles compared to the individual prices.
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
@@ -26,7 +26,7 @@ Use code **JULY26BUNCT** to get up to 45% off the following certification bundle
 - KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 > [!NOTE]
->Note: This exclusive July offer ends soon. So lock in the price before it expires.
+>Note: This exclusive August offer ends soon. So lock in the price before it expires.
 
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
