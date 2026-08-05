@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 The following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [48% OFF] Linux Foundation Exclusive Summer Sale (Ends in Few Days)
+## [48% OFF] Linux Foundation Exclusive Summer Sale (Less than 24hrs Left)
 
 Get up to 48% off on Certifications and bundles using the exclusive community summer sale.
 
@@ -27,6 +27,13 @@ Use same code **SUMMER26CT** to get up to 48% off the following certification bu
 
 > [!NOTE]
 >Note: This exclusive August offer ends soon. So lock in the price before it expires.
+
+## 65%+ Off Open Source Summit Korea Summit (August 11-12)
+
+Get 65% discount on open source korea summit by the Linux Foundation.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES** at [Open Source Korea Summit](https://events.linuxfoundation.org/open-source-summit-korea/register/)
 
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
