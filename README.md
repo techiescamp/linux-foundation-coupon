@@ -6,16 +6,16 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 The following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [48% OFF] Linux Foundation Exclusive Summer Sale (Ends in Few Hours)
+## [35% OFF] Linux Foundation 35th Anniversary Sale
 
-Get up to 48% off on Certifications and bundles using the exclusive community summer sale.
+Get up to 35% off on Certifications and bundles using the exclusive community anniversary sale.
 
-For individual certifications, get a flat 40% discount using the following code.
+For individual certifications, get a flat 35% discount using the following code.
 
 > [!IMPORTANT]
->**Coupon:** Use code **SUMMER26CT** at [kube.promo/devops](https://kube.promo/devops)
+>**Coupon:** Use code **TUX35CT** at [kube.promo/devops](https://kube.promo/devops)
 
-Use same code **SUMMER26CT** to get up to 48% off the following certification bundles compared to the individual prices.
+Use same code **TUX35CT** to get up to 35% off the following certification bundles compared to the individual prices.
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
