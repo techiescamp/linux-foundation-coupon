@@ -6,7 +6,7 @@ As part of supporting the DevOps community, we keep all the Linux Foundation cou
 
 The following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
 
-## [40% OFF] Linux Foundation 35th Anniversary Sale
+## [40% OFF] Linux Foundation 35th Anniversary Sale (Limited Sale)
 
 Get up to 35% off on Certifications and bundles using the exclusive community anniversary sale.
 
