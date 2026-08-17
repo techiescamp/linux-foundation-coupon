@@ -28,13 +28,6 @@ Use the same code **TUX35CT** to get up to 35% off the following certification b
 > [!NOTE]
 >Note: This exclusive August offer ends soon. So lock in the price before it expires.
 
-## 65%+ Off Open Source Summit Korea Summit (August 11-12)
-
-Get a 65% discount on the Open Source Korea Summit by the Linux Foundation.
-
-> [!IMPORTANT]
->**Coupon:** Use code **COMTECHIES** at [Open Source Korea Summit](https://events.linuxfoundation.org/open-source-summit-korea/register/)
-
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -521,6 +514,9 @@ Individual Pass: 14% Off Current Pricing
 
 Individual Registration type is for registrants who are currently not working for a company, work for a non-profit, or are attending at their own expense (i.e. not funded by a company)
 
-> [!NOTE]
->Act Fast - code expires on August 26!
+## 65%+ Off Open Source Summit Korea Summit (Expired)
 
+Get a 65% discount on the Open Source Korea Summit by the Linux Foundation.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES** at [Open Source Korea Summit](https://events.linuxfoundation.org/open-source-summit-korea/register/)
