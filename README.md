@@ -4,29 +4,7 @@ Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
 As part of supporting the DevOps community, we keep all Linux Foundation coupons up to date on this page.
 
-The following are the Latest Linux Foundation Coupon Codes for Certification &amp; Training Programs
-
-## [40% OFF] Linux Foundation 35th Anniversary Sale (Only Few Hours Left)
-
-Get up to 35% off on Certifications and bundles using the exclusive community anniversary sale.
-
-For individual certifications, get up to a 40% discount using the following code.
-
-> [!IMPORTANT]
->**Coupon:** Use code **TUX35CT** at [kube.promo/devops](https://kube.promo/devops)
-
-Use the same code **TUX35CT** to get up to 35% off the following certification bundles compared to the individual prices.
-
-- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + KCSA + CKA + CKAD + CKS: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> [!NOTE]
->Note: This exclusive August offer ends soon. So lock in the price before it expires.
+The following are the Latest Linux Foundation Coupon Codes for certification & training programs
 
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
@@ -498,6 +476,7 @@ Get 20% off on THRIVE-Annual using code **JPRIME26TOCT**
 
 > [!NOTE]
 >Note: Offer ends soon. So lockin the price.
+
 ## 30% KubeCon + CloudNativeCon India 2026 Discount Coupon [Expired]
 
 KubeCon + CloudNativeCon North America is coming to India, Mumbai from 18 to 19 June!
@@ -520,3 +499,12 @@ Get a 65% discount on the Open Source Korea Summit by the Linux Foundation.
 
 > [!IMPORTANT]
 >**Coupon:** Use code **COMTECHIES** at [Open Source Korea Summit](https://events.linuxfoundation.org/open-source-summit-korea/register/)
+
+## [40% OFF] Linux Foundation Anniversary Sale (Expired)
+
+Get up to 35% off on Certifications and bundles using the exclusive community anniversary sale.
+
+For individual certifications, get up to a 40% discount using the following code.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **TUX35CT** at [kube.promo/devops](https://kube.promo/devops)
