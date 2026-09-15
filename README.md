@@ -13,9 +13,9 @@ Get up to 35% off on Certifications and bundles using the end-of-season flash sa
 For individual certifications, get a flat 35% discount using the following code.
 
 > [!IMPORTANT]
->**Coupon:** Use code **SEPT26BTS40CT** at [kube.promo/devops](https://kube.promo/devops)
+>**Coupon:** Use code **SEPT26BTS35CT** at [kube.promo/devops](https://kube.promo/devops)
 
-Using code **SEPT26BTS35CT**, you can get up to a 48% discount on the following Kubernetes certification bundles.
+Using code **SEPT26BTS40CT**, you can get up to a 48% discount on the following Kubernetes certification bundles.
 
 - CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle [kube.promo/bundle](https://kube.promo/bundle)
