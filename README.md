@@ -6,7 +6,7 @@ To support the DevOps community, we keep all Linux Foundation coupons up to date
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
-## [48% OFF] Linux Foundation Pack Your Future Sale
+## [48% OFF] Linux Foundation Pack Your Future Sale (Only 24 hrs left)
 
 Get up to 35% off on Certifications and bundles using the end-of-season flash sale.
 
