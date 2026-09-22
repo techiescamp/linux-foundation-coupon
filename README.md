@@ -26,7 +26,21 @@ Using code **SEPT26BTS40CT**, you can get up to a 48% discount on the following 
 - KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 > [!NOTE]
->Note: Offer ends on September 22nd. So lock in the price. 
+>Note: Offer ends on September 22nd. So lock in the price.
+
+## [20% OFF] KubeCon + CloudNativeCon North America 2026
+
+KubeCon + CloudNativeCon North America is coming to Atlanta, November 10-1.
+
+All-Access Pass: This pass type includes entry to all 18 CNCF-hosted co-located events, and KubeCon + CloudNativeCon.
+
+KubeCon + CloudNativeCon Only Pass: This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will be granted to CNCF-hosted co-located events.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES20**
+
+> [!NOTE]
+>Act Fast - code expires soon!
 
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
@@ -289,20 +303,6 @@ You can get up to 47% discount using the following bundles using code **40KUBE25
 
 > [!NOTE]
 >Note: Offer ends soon. So lockin the price.
-
-## 30% KubeCon + CloudNativeCon North America 2025 [Expired]
-
-KubeCon + CloudNativeCon North America is coming to Atlanta, November 10-1.
-
-All-Access Pass: This pass type includes entry to all 18 CNCF-hosted co-located events, and KubeCon + CloudNativeCon.
-
-KubeCon + CloudNativeCon Only Pass: This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will be granted to CNCF-hosted co-located events.
-
-> [!IMPORTANT]
->**Coupon:** Use code **COMTECHIES**
-
-> [!NOTE]
->Act Fast - code expires on August 26!
 
 ## [UpTo 65% OFF] Linux Foundation Cyber Monday Sale 2025 (Expired)
 
