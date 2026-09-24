@@ -6,42 +6,6 @@ To support the DevOps community, we keep all Linux Foundation coupons up to date
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
-## [48% OFF] Linux Foundation Pack Your Future Sale (Ends in a Few Hours)
-
-Get up to 35% off on Certifications and bundles using the end-of-season flash sale.
-
-For individual certifications such as CKA, CKAD, and CKS, you can get a flat 35% discount with the following code.
-
-> [!IMPORTANT]
->**Coupon:** Use code **SEPT26BTS35CT** at [kube.promo/devops](https://kube.promo/devops)
-
-Using code **SEPT26BTS40CT**, you can get up to a 48% discount on the following Kubernetes certification bundles.
-
-- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> [!NOTE]
->Note: Offer ends on September 22nd. So lock in the price.
-
-## [20% OFF] KubeCon + CloudNativeCon North America 2026
-
-KubeCon + CloudNativeCon North America is coming to Atlanta, November 10-1.
-
-All-Access Pass: This pass type includes entry to all 18 CNCF-hosted co-located events, and KubeCon + CloudNativeCon.
-
-KubeCon + CloudNativeCon Only Pass: This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will be granted to CNCF-hosted co-located events.
-
-> [!IMPORTANT]
->**Coupon:** Use code **COMTECHIES20**
-
-> [!NOTE]
->Act Fast - code expires soon!
-
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -66,6 +30,20 @@ The following are the best bundles to **save 38% ($600+ savings)** with code **D
 
 > [!NOTE]
 >Note: Offer ends soon. So lock in the price.
+
+## [20% OFF] KubeCon + CloudNativeCon North America 2026
+
+KubeCon + CloudNativeCon North America is coming to Atlanta, November 10-1.
+
+All-Access Pass: This pass type includes entry to all 18 CNCF-hosted co-located events, and KubeCon + CloudNativeCon.
+
+KubeCon + CloudNativeCon Only Pass: This pass type includes entry to KubeCon + CloudNativeCon ONLY. No access will be granted to CNCF-hosted co-located events.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **COMTECHIES20**
+
+> [!NOTE]
+>Act Fast - code expires soon!
 
 ## [40% OFF] Kubestronaut Bundle Discounts
 
@@ -511,4 +489,26 @@ Get a 65% discount on the Open Source Korea Summit by the Linux Foundation.
 
 > [!IMPORTANT]
 >**Coupon:** Use code **COMTECHIES** at [Open Source Korea Summit](https://events.linuxfoundation.org/open-source-summit-korea/register/)
+
+## [48% OFF] Linux Foundation Pack Your Future Sale (Expired)
+
+Get up to 35% off on Certifications and bundles using the end-of-season flash sale.
+
+For individual certifications such as CKA, CKAD, and CKS, you can get a flat 35% discount with the following code.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **SEPT26BTS35CT** at [kube.promo/devops](https://kube.promo/devops)
+
+Using code **SEPT26BTS40CT**, you can get up to a 48% discount on the following Kubernetes certification bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+> [!NOTE]
+>Note: Offer ends on September 22nd. So lock in the price.
 
