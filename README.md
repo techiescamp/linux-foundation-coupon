@@ -2,9 +2,39 @@
 
 Looking for the latest Linux Foundation coupon codes? We've got you covered.
 
-To support the DevOps community, we keep all Linux Foundation coupons up to date on this page.
+To support the DevOps community, we keep this page updated with the latest Linux Foundation coupons for CKA, CKAD, CKAS, and more.
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
+
+## [75% OFF] Linux Foundation Prime Deal (2 Days Only)
+
+Using the latest Linux Foundation Prime Deal, you save up to 75% on Linux Foundation certifications, training, and bundles.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **OCTPRIME26CCCT** at [kube.promo/devops](https://kube.promo/devops) to get a flat 40% discount on individual Linux Foundation certifications, training, and courses.
+
+Use code **OCTPRIME26BCT** to get a flat 50% off all Linux Foundation certification bundles.
+
+The following are the key certification bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+Using code **OCTPRIME26SBCT**, you can get a 75% discount on the following super bundles 
+
+- [Cloud Native Super Bundle](https://trainingportal.linuxfoundation.org/collections/cloud-native-containers-package) [CKA Certification & 6 Courses]
+- [Cybersecurity Super Bundle](https://trainingportal.linuxfoundation.org/collections/cybersecurity-bundle)[CKA, CKS & LFCS certification & 6 courses]
+- [Cloud Native Developer Super Bundle](https://trainingportal.linuxfoundation.org/collections/devsecops-super-bundle)[CKAD & 5 Courses]
+
+Get falt 20% off on THRIVE-Annual using code **OCTPRIME26TOCT**
+
+> [!NOTE]
+>Note: It's a two-day-only flash sale running October 6 and 7, 2026. Hurry up and lock in the savings before it expires!
 
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
@@ -449,24 +479,6 @@ You can download the 2026 tech talent report from here [2026 Tech Talent Report]
 > [!NOTE]
 >Note: This is a 2 days falsh sale.
 
-## [UpTo 75% OFF] Linux Foundation Prime Deal (Expired)
-
-Get flat 40% sitewide discount on individual Linux Foundation certifications, trainings, courses.
-
-> [!IMPORTANT]
->**Coupon:** Use code **JPRIME26CCCT** at [kube.promo/devops](https://kube.promo/devops)
-
-You can get 75% discount on the following super bundles using code **JPRIME26SBCT**
-
-- [Cloud Native Super Bundle](https://trainingportal.linuxfoundation.org/collections/cloud-native-containers-package) [CKA Certification & 6 Courses]
-- [Cybersecurity Super Bundle](https://trainingportal.linuxfoundation.org/collections/cybersecurity-bundle)[CKA, CKS & LFCS certification & 6 courses]
-- [Cloud Native Developer Super Bundle](https://trainingportal.linuxfoundation.org/collections/devsecops-super-bundle)[CKAD & 5 Courses]
-
-Get 20% off on THRIVE-Annual using code **JPRIME26TOCT**
-
-> [!NOTE]
->Note: Offer ends soon. So lockin the price.
-
 ## 30% KubeCon + CloudNativeCon India 2026 Discount Coupon [Expired]
 
 KubeCon + CloudNativeCon North America is coming to India, Mumbai from 18 to 19 June!
@@ -498,17 +510,3 @@ For individual certifications such as CKA, CKAD, and CKS, you can get a flat 35%
 
 > [!IMPORTANT]
 >**Coupon:** Use code **SEPT26BTS35CT** at [kube.promo/devops](https://kube.promo/devops)
-
-Using code **SEPT26BTS40CT**, you can get up to a 48% discount on the following Kubernetes certification bundles.
-
-- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + KCSA + CKA + CKAD + CKS (55% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> [!NOTE]
->Note: Offer ends on September 22nd. So lock in the price.
-
