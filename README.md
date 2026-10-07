@@ -6,7 +6,7 @@ To support the DevOps community, we keep this page updated with the latest Linux
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
-## [75% OFF] Linux Foundation Prime Deal (2 Days Only)
+## [75% OFF] Linux Foundation Prime Deal (24 Hrs Left)
 
 Using the latest Linux Foundation Prime Deal, you save up to 75% on Linux Foundation certifications, training, and bundles.
 
