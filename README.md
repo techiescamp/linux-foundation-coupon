@@ -6,6 +6,33 @@ To support the DevOps community, we keep this page updated with the latest Linux
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
+## [UpTo 47% OFF] Linux Foundation Cyber Security Sale is Live (Limited Time offer)
+
+Get a flat 35% discount on individual certifications like CKA, CKD, CKS, etc.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **OCT26NONCYBERCT** at [kube.promo/devops](https://kube.promo/devops)
+
+Use code **OCT26CYBERCT** to get up to 47% off these security-focused Kubernetes certifications and bundles.
+
+- CKS [kube.promo/cks](https://kube.promo/cks)
+- KCSA [kube.promo/kcsa](https://kube.promo/kcsa)
+- KCSA + CKS Exam Bundle [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+
+Use code **OCT26NONCYBERCT** to save up to 40% on the following certification bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle : [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+Using code **OCT26THRIVECT**, get a flat 30% off on Thrive One subscription using code OCT26THRIVECT
+
+> [!NOTE]
+>Note: Offer ends on October 23rd. So hurry up and lock in the huge discount.
+
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -245,26 +272,11 @@ You can get up to 47% discount using the following bundles using code **SEPT25CT
 > [!NOTE]
 >Note: You have one year of validity to appear for the certification exam after registration
 
-## [UpTo 47% OFF] Linux Foundation Cyber Security Sale [Expired]
-Get up to 47% discount on all foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
-Get flat 40% discount on the following security based kubernetes certifications.
-
-- KCSA [kube.promo/kcsa](https://kube.promo/kcsa)
-- KCNA [kube.promo/cks](https://kube.promo/cks)
-
-> [!IMPORTANT]
->**Coupon:** Use code **OCT25CYBERCT** 
-
-You can get up to 47% discount using the following bundles using code **OCT25CYBERCT**
-
-- CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-
 ## [UpTo 47% OFF] Linux Foundation KubeCon Sale (Expired)
 
-As part of KubeCon sale, get up to 47% discount on all the linux foundation certifications, IT Professional Programs, e-learning Courses andInstructor-led Courses
+As part of the KubeCon sale, get up to 47% discount on all the Linux Foundation certifications, IT Professional Programs, e-learning courses, and instructor-led courses
 
-For individual certifications, get flat 40% using the following coupon.
+For individual certifications, get a flat 40% discount using the following coupon.
 
 > [!IMPORTANT]
 >**Coupon:** Use code **40KUBE25CT** at [kube.promo/devops](https://kube.promo/devops)
