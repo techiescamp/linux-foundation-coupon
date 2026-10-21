@@ -6,7 +6,7 @@ To support the DevOps community, we keep this page updated with the latest Linux
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
-## [UpTo 47% OFF] Linux Foundation Cyber Security Sale is Live (Last Day)
+## [UpTo 47% OFF] Linux Foundation Cyber Security Sale is Live (Ends Soon)
 
 CKA, CKAD, CKS, KCNA, and other certification exam aspirants can get a flat 35% off using code **OCT26NONCYBERCT**.
 > [!IMPORTANT]
