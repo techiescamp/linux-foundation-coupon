@@ -6,11 +6,32 @@ To support the DevOps community, we keep this page updated with the latest Linux
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
+# [UpTo 45% OFF] Linux Foundation Halloween Flash Sale is Live (2 Days Only)
+
+The Linux Foundation Halloween flash sale is live now. 
+
+CKA, CKAD, CKS, KCNA, and other certification exam aspirants can get a flat 35% off using code **TREATS35CT**.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **TREATS35CT** at [kube.promo/devops](https://kube.promo/devops)
+
+Use the same code to save up to 45% on the following certification bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle : [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+> [!NOTE]
+>Note: This is a 2 days falsh sale. So lock in the price now!
+
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
 
-CKA, CKAD, CKS, KCNA, and other certification exam aspirants can get a flat 3o% off using code **DCUBE30**.
+CKA, CKAD, CKS, KCNA, and other certification exam aspirants can get a flat 30% off using code **DCUBE30**.
 
 > [!IMPORTANT]
 >**Coupon:** Use code **DCUBE30** at [kube.promo/devops](https://kube.promo/devops)
@@ -411,15 +432,6 @@ If you bundle Your Certs with THRIVE Annual Subscription you can get 65% off cer
 > [!NOTE]
 >Note: You Won't see this offer again until Cyber offer in November. Due to Popular Demand, Offer Extended till may 24th. Dont miss out.
 
-## [UpTo 45% OFF] Linux Foundation Kubernetes Birthday Sale 2026 (Expired) 
-
-The k8s Birthday Sale is live now. As part of the Kubernetes 10th birthday sale, get a flat 35% off all certifications, skills, IT professional programs, and training programs only for the next two days.
-
-> [!IMPORTANT]
->**Coupon:** Use code **HBDK826CCCT** at [kube.promo/devops](https://kube.promo/devops)
-
-> [!NOTE]
->Note: This is a 3 days falsh sale. So lockin the price before June 5th.
 ## [UpTo 45% OFF] Linux Foundation Tech Talent Sale (Expired) 
 
 As part of the Linux Foundation 2026 tech talent report sale, you can get a flat 40% off all certifications, skills, IT professional programs, and training programs only for the next two days.
@@ -505,15 +517,6 @@ Use code **OCT26CYBERCT** to get up to 47% off these security-focused Kubernetes
 - CKS [kube.promo/cks](https://kube.promo/cks)
 - KCSA [kube.promo/kcsa](https://kube.promo/kcsa)
 - KCSA + CKS Exam Bundle [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-
-Use code **OCT26NONCYBERCT** to save up to 40% on the following certification bundles.
-
-- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle : [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + KCSA + CKA + CKAD + CKS: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 Using code **OCT26THRIVECT**, get a flat 30% off on Thrive One subscription using code OCT26THRIVECT
 
