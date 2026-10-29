@@ -6,7 +6,7 @@ To support the DevOps community, we keep this page updated with the latest Linux
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
-# [UpTo 45% OFF] Linux Foundation Halloween Flash Sale is Live (2 Days Only)
+# [UpTo 45% OFF] Linux Foundation Halloween Flash Sale is Live (Only Few Hours Left)
 
 The Linux Foundation Halloween flash sale is live now. 
 
