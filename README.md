@@ -6,27 +6,6 @@ To support the DevOps community, we keep this page updated with the latest Linux
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
-# [UpTo 45% OFF] Linux Foundation Halloween Flash Sale is Live (Only Few Hours Left)
-
-The Linux Foundation Halloween flash sale is live now. 
-
-CKA, CKAD, CKS, KCNA, and other certification exam aspirants can get a flat 35% off using code **TREATS35CT**.
-
-> [!IMPORTANT]
->**Coupon:** Use code **TREATS35CT** at [kube.promo/devops](https://kube.promo/devops)
-
-Use the same code to save up to 45% on the following certification bundles.
-
-- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle : [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + KCSA + CKA + CKAD + CKS: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> [!NOTE]
->Note: This is a 2 days falsh sale. So lock in the price now!
-
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -520,5 +499,23 @@ Use code **OCT26CYBERCT** to get up to 47% off these security-focused Kubernetes
 
 Using code **OCT26THRIVECT**, get a flat 30% off on Thrive One subscription using code OCT26THRIVECT
 
+# [UpTo 45% OFF] Linux Foundation Halloween Flash Sale is Live (Expired)
+
+The Linux Foundation Halloween flash sale is live now. 
+
+CKA, CKAD, CKS, KCNA, and other certification exam aspirants can get a flat 35% off using code **TREATS35CT**.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **TREATS35CT** at [kube.promo/devops](https://kube.promo/devops)
+
+Use the same code to save up to 45% on the following certification bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle : [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + KCSA + CKA + CKAD + CKS: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
 > [!NOTE]
->Note: Offer ends on October 23rd. So hurry up and lock in the huge discount.
+>Note: This is a 2 days falsh sale. So lock in the price now!
