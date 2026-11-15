@@ -10,7 +10,7 @@ The following are the Latest Linux Foundation Coupon Codes for certification & t
 
 As part of the KubeCon sale, get up to a 47% discount on all the Linux Foundation certifications, IT Professional Programs, e-learning courses, and instructor-led courses
 
-CKA, CKAD, CKS, KCNA, and other certification exam aspirants can get a flat 40% off using code **40KUBE26CT**.
+CKA, CKAD, CKS, CKNE and other certification exam aspirants can get a flat 40% off using code **40KUBE26CT**.
 
 > [!IMPORTANT]
 >**Coupon:** Use code **40KUBE26CT** at [kube.promo/devops](https://kube.promo/devops)
@@ -32,7 +32,7 @@ You can get up to a 47% discount using the following bundles with code **40KUBE2
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
 
-CKA, CKAD, CKS, KCNA, and other certification exam aspirants can get a flat 30% off using code **DCUBE30**.
+CKA, CKAD, CKS, CKNE, and other certification exam aspirants can get a flat 30% off using code **DCUBE30**.
 
 > [!IMPORTANT]
 >**Coupon:** Use code **DCUBE30** at [kube.promo/devops](https://kube.promo/devops)
