@@ -19,7 +19,7 @@ You can get up to a 47% discount using the following bundles with code **40KUBE2
 
 - CKA + CKAD ($370+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + KCSA + CKA + CKAD + CKS (47% - $858 Savings): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + KCSA + CKA + CKAD + CKS + CKNE (47% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - CKA + CKAD + CKS Exam bundle (47% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
 - KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 - KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
@@ -42,7 +42,7 @@ Get up to 38% off ($600+ savings)with the following kubernetes certification bun
 - CKA + CKAD ($370+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
 - CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
 - CKA + CKAD + CKS Exam bundle (35% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + KCSA + CKA + CKAD + CKS (38% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- KCNA + KCSA + CKA + CKAD + CKS + CKNE (38% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 - KCNA + CKA ( $288 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
 - KCSA + CKS Exam Bundle ($229 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
 - KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
