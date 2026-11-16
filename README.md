@@ -6,7 +6,7 @@ To support the DevOps community, we keep this page updated with the latest Linux
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
-## [UpTo 47% OFF] Linux Foundation Sitewide November KubeCon Sale 
+## [UpTo 47% OFF] Linux Foundation Sitewide November KubeCon Sale (Only Few Days Left)
 
 As part of the KubeCon sale, get up to a 47% discount on all the Linux Foundation certifications, IT Professional Programs, e-learning courses, and instructor-led courses
 
@@ -26,7 +26,7 @@ You can get up to a 47% discount using the following bundles with code **40KUBE2
 - KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
 
 > [!NOTE]
->Note: This limited-time offer ends soon. So lock in the price.
+>Note: This limited-time offer ends on 20th November! Hurry up and lock in the discount.
 
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
