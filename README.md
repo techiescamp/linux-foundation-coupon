@@ -6,7 +6,7 @@ To support the DevOps community, we keep this page updated with the latest Linux
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
-## [UpTo 47% OFF] Linux Foundation Sitewide November KubeCon Sale (Only Few Days Left)
+## [UpTo 47% OFF] Linux Foundation Sitewide November KubeCon Sale (Only two days left)
 
 As part of the KubeCon sale, get up to a 47% discount on all the Linux Foundation certifications, IT Professional Programs, e-learning courses, and instructor-led courses
 
