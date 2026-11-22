@@ -6,28 +6,6 @@ To support the DevOps community, we keep this page updated with the latest Linux
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
-## [UpTo 47% OFF] Linux Foundation Sitewide November KubeCon Sale (Ends Today)
-
-As part of the KubeCon sale, get up to a 47% discount on all the Linux Foundation certifications, IT Professional Programs, e-learning courses, and instructor-led courses
-
-CKA, CKAD, CKS, CKNE and other certification exam aspirants can get a flat 40% off using code **40KUBE26CT**.
-
-> [!IMPORTANT]
->**Coupon:** Use code **40KUBE26CT** at [kube.promo/devops](https://kube.promo/devops)
-
-You can get up to a 47% discount using the following bundles with code **40KUBE26CT**
-
-- CKA + CKAD ($370+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + KCSA + CKA + CKAD + CKS + CKNE (47% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
-- CKA + CKAD + CKS Exam bundle (47% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> [!NOTE]
->Note: This limited-time offer ends on 20th November! Hurry up and lock in the discount.
-
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -519,3 +497,24 @@ Use the same code to save up to 45% on the following certification bundles.
 
 > [!NOTE]
 >Note: This is a 2 days falsh sale. So lock in the price now!
+## [UpTo 47% OFF] Linux Foundation Sitewide November KubeCon Sale (Expired)
+
+As part of the KubeCon sale, get up to a 47% discount on all the Linux Foundation certifications, IT Professional Programs, e-learning courses, and instructor-led courses
+
+CKA, CKAD, CKS, CKNE and other certification exam aspirants can get a flat 40% off using code **40KUBE26CT**.
+
+> [!IMPORTANT]
+>**Coupon:** Use code **40KUBE26CT** at [kube.promo/devops](https://kube.promo/devops)
+
+You can get up to a 47% discount using the following bundles with code **40KUBE26CT**
+
+- CKA + CKAD ($370+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle ($370+ Savings) [kube.promo/bundle](https://kube.promo/bundle)
+- KCNA + KCSA + CKA + CKAD + CKS + CKNE (47% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- CKA + CKAD + CKS Exam bundle (47% Discount): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + CKA ( $255 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle ($209 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle ($203 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+> [!NOTE]
+>Note: This limited-time offer ends on 20th November! Hurry up and lock in the discount.
