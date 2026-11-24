@@ -464,6 +464,7 @@ Get falt 20% off on THRIVE-Annual using code **OCTPRIME26TOCT**
 
 > [!NOTE]
 >Note: This deal has expired. It will be active again during the 2027 prime deal.
+
 ## [UpTo 47% OFF] Linux Foundation Cyber Security Sale is Live (Expired)
 
 > [!IMPORTANT]
@@ -477,7 +478,7 @@ Use code **OCT26CYBERCT** to get up to 47% off these security-focused Kubernetes
 
 Using code **OCT26THRIVECT**, get a flat 30% off on Thrive One subscription using code OCT26THRIVECT
 
-# [UpTo 45% OFF] Linux Foundation Halloween Flash Sale is Live (Expired)
+## [UpTo 45% OFF] Linux Foundation Halloween Flash Sale (Expired)
 
 The Linux Foundation Halloween flash sale is live now. 
 
