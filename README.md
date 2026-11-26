@@ -6,6 +6,55 @@ To support the DevOps community, we keep this page updated with the latest Linux
 
 The following are the Latest Linux Foundation Coupon Codes for certification & training programs.
 
+## [Upto 65% OFF] Linux Foundation Black Friday & Cyber Monday Sale is Live
+
+The much-awaited Linux Foundation Black Friday and Cyber Monday sale is live now.
+
+> Important Note: This is the best offer you can get from the Linux Foundation all year. This Cyber Monday offer expires soon. So hurry up and lokin the price.
+
+Get a flat 50% off individual certifications like CKA, CKAD, CKS, CKNE, etc using the coupon **BFCM26CCCT**.
+
+> [!IMPORTANT]
+> Use code **BFCM26CCCT** at https://kube.promo/devops
+
+Use code **BFCM26BUNCT** to save more than 60% on the following certification bundles.
+
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
+- KCNA + CKA: [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- KCSA + CKS Exam Bundle: [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
+- KCNA + KCSA Exam Bundle: [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
+
+Use code **BFCM26K8SCT** to save up to 60% on Kubestronaut bundles.
+
+- Kubestronaut Bundle: [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
+- Golden Kubestronaut Bundle: [Golden Kubestronaut Bundle](https://training.linuxfoundation.org/certification/golden-kubestronaut-bundle/)
+- Kubestronaut to Golden Kubestronaut Upgrade Bundle: [Kubestronaut to Golden Kubestronaut Upgrade Bundle](https://training.linuxfoundation.org/certification/kubestronaut-to-golden-kubestronaut-upgrade-bundle/)
+- CKA to Kubestronaut Upgrade Bundle: [CKA to Kubestronaut Upgrade Bundle](https://training.linuxfoundation.org/certification/cka-to-kubestronaut-upgrade-bundle/)
+- CKAD to Kubestronaut Upgrade Bundle: [CKAD to Kubestronaut Upgrade Bundle](https://training.linuxfoundation.org/certification/ckad-to-kubestronaut-upgrade-bundle/)
+
+> [!NOTE]
+> Certification Pathways are self-paced learning paths that combine the courses you need with the certification exam. Both pathways below are included in the Bundles offer, together with other exam and course bundles.
+
+- CKNE Certification Pathway: [CKNE Certification Pathway](https://training.linuxfoundation.org/certification/ckne-certification-pathway/)
+- PTCA Certification Pathway: [PTCA Certification Pathway](https://training.linuxfoundation.org/certification/ptca-certification-pathway/)
+
+Use code **BFCM26ILTCT** to **save 50%** on the following Instructor-led Training courses (Guaranteed to Run courses only)
+
+| Course | Date | Location | Link |
+|---|---|---|---|
+| Linux Kernel Internals and Development (LFD420) | Nov 30, 2026 | Virtual, US Central | [LFD420](https://training.linuxfoundation.org/training/linux-kernel-internals-and-development/) |
+| Linux Kernel Debugging (LFD445) | Nov 30, 2026 | Virtual, US Central | [LFD445](https://training.linuxfoundation.org/training/linux-kernel-debugging-lfd445/) |
+| Embedded Linux Development (LFD450) | Dec 7, 2026 | Virtual, US Central | [LFD450](https://training.linuxfoundation.org/training/embedded-linux-development/) |
+| Kubernetes Administration (LFS458) | Dec 14, 2026 | Virtual, London EMEA | [LFS458](https://training.linuxfoundation.org/training/kubernetes-administration/) |
+| Kubernetes Security Fundamentals (LFS460) | Dec 14, 2026 | Virtual, US Central | [LFS460](https://training.linuxfoundation.org/training/kubernetes-security-fundamentals-lfs460/) |
+| Kubernetes for App Developers (LFD459) | Mar 29, 2027 | Virtual, US Central | [LFD459](https://training.linuxfoundation.org/training/kubernetes-for-app-developers/) |
+
+> [!NOTE]
+> ⌛ Act fast—this limited-time offer ends on Dec 4. You have one year of validity to appear for the certification exam after registration
+
+
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
 As part of the exclusive DevOps sale, get a flat 30% discount on all the Linux Foundation certifications, training programs, skill crews, and IT professional programs, including all bundles like the Kubestronaut.
@@ -244,31 +293,6 @@ You can get up to 47% discount using the following bundles using code **SEPT25CT
 
 > [!NOTE]
 >Note: You have one year of validity to appear for the certification exam after registration
-
-## [UpTo 65% OFF] Linux Foundation Cyber Monday Sale 2026
-
-The much-awaited Linux Foundation  Cyber Monday sale is not live yet.
-
-> **Important Note:** This is the best offer you can get from the Linux Foundation all year. This Cyber Monday offer expires soon. So hurry up and lokin the price.
-
-You will get flat 50% off on individual courses, certifications, instructor led courses, and skillcreds usinf the following coupon.
-
-> [!IMPORTANT]
-**Coupon:** Use code **CW25CT** at [kube.promo/devops](https://kube.promo/devops)
-
-Use code **CW25BUNCT** to **save more than 60%** on the following bundles.
-
-- CKA + CKAD ($450+ Savings): [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
-- CKA + CKS Bundle (63% - $500 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- CKA + CKAD + CKS Exam bundle (63% - $747 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- KCNA + CKA (68% - $338 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
-- KCSA + CKS Exam Bundle (64% - $407 Savings) [kube.promo/kcsa-cks](https://kube.promo/kcsa-cks)
-- KCNA + KCSA Exam Bundle (66% - $330 Savings) [kube.promo/kcna-kcsa](https://kube.promo/kcna-kcsa)
-
-> [!IMPORTANT]
-Use code **CW25K8BUNCT** Kubestronaut Bundle, Golden Kubestronaut Bundle, Kubestronaut to Golden Kube upgrade Bundle
-
-- KCNA + KCSA + CKA + CKAD + CKS (38% Discount): [kube.promo/kubestronaut](https://kube.promo/kubestronaut)
 
 ## [UpTo 47% OFF] Linux Foundation Holiday Sale (Expired)
 
