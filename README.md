@@ -54,7 +54,7 @@ Use code **BFCM26ILTCT** to **save 50%** on the following Instructor-led Trainin
 > [!NOTE]
 > ⌛ Act fast—this limited-time offer ends on Dec 4. You have one year of validity to appear for the certification exam after registration
 
-Important Note: Everyone who buys between November 27 and December 4, 2026 using these promotion codes is eligible for a $100 voucher. The voucher can be used on an eLearning course, instructor led training course or certification purchased between January 1 and October 31, 2027. 
+**Important Note:** Everyone who buys between November 27 and December 4, 2026 using these promotion codes is eligible for a $100 voucher. The voucher can be used on an eLearning course, instructor led training course or certification purchased between January 1 and October 31, 2027. 
 
 ## [Up To 38% OFF] Linux Foundation DevOps Sale (Limited Sale)
 
