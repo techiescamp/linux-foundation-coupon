@@ -12,9 +12,9 @@ The much-awaited Linux Foundation Black Friday and Cyber Monday sale is live now
 
 > Important Note: This is the best offer you can get from the Linux Foundation all year. This Cyber Monday offer expires soon. So hurry up and lokin the price.
 
-Get a flat 50% off individual certifications like CKA, CKAD, CKS, CKNE, etc using the coupon **BFCM26CCCT**.
+Using the coupon **BFCM26CCCT**,get a flat 50% off individual certifications like CKA, CKAD, CKS, CKNE, etc 
 
-With this, the price of CKA, CKAD, and CKS reduces from $445 to $222.
+With this, the price of CKA, CKAD, and CKS is reduced from $445 to $222.
 
 > [!IMPORTANT]
 > Use code **BFCM26CCCT** at https://kube.promo/devops
